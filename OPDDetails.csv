@@ -1,0 +1,1624 @@
+Date,UHID,Pt Name,Dr. Name,Qual,Spec.,Age,Height,Weight,Temp,BP
+"Thursday, 11 August, 2022",TCH-P-0110,SATYANARAYAN PASWAN,DR.VINIT KUMAR SINHA,"MBBS,PG-DTM & H,MEDICINE",,34,"5'6""",59 KG,,
+"Friday, 12 August, 2022",TCH-P-0111,SANGITA DEVI,Dr.Vinit Kumar Sinha,"MBBS,PG-DTM & H,MEDICINE",,35,"5'6""",61 KG,,
+"Saturday, 13 August, 2022",TCH-P-0113,RUPA KUMARI,"DR.VINIT KUMAR SINHA 
+","MBBS,PD-DTM & H, MEDICINE
+",,35,"5'3""",80 KG,,
+"Sunday, 14 August, 2022",TCH-P-0116,SARITA DEVI,"DR.VINIT KUMAR SINHA 
+","MBBS,PD-DTM & H, MEDICINE
+",,45,"4'8""",65 KG,,
+"Monday, 15 August, 2022",TCH-P-0118,DEEPAK KUMAR,"DR.VINIT KUMAR SINHA 
+","MBBS,PD-DTM & H, MEDICINE
+",,25,"5'4""",55 KG,,
+"Tuesday, 16 August, 2022",TCH-P-0120,NANDLAL PRASHAD,"DR.VINIT KUMAR SINHA 
+","MBBS,PD-DTM & H, MEDICINE
+",,58,"5'7""",48 KG,,
+"Wednesday, 17 August, 2022",TCH-P-0137,SUNITA DEVI,Dr. Ajay Kumar,MD. Phd,"General Physician
+",43,"5'1""",48 KG,,
+"Thursday, 18 August, 2022",TCH-P-0139,SHILA  DEVI,"DR.VINIT KUMAR SINHA 
+","MBBS,PG -DTM & H, MEDICINE
+",,50,"5'4""",48 KG,98'F,120/80 MMHg
+"Friday, 19 August, 2022",TCH-P-0140,UJJWAL KUMAR,"DR.VINIT KUMAR SINHA 
+","MBBS,PG-DTM & H, MEDICINE
+",,28,"5'6""",62 KG,98,120/80
+"Saturday, 20 August, 2022",TCH-P-0141,SAINA PARWEEN,"DR.VINIT KUMAR SINHA 
+","MBBS,PG -DTM & H, MEDICINE
+",,21,"5'7""",48 KG,98'F,110/70 MMHg
+"Sunday, 21 August, 2022",TCH-P-0142,AFSHANA KHATOON,"DR.VINIT KUMAR SINHA 
+","MBBS,PG -DTM & H, MEDICINE
+",,40,"5'4""",58 KG,98'F,110/70 MMHg
+"Monday, 22 August, 2022",TCH-P-0143,Rita Devi,"DR.VINIT KUMAR SINHA 
+","MBBS,PG -DTM & H, MEDICINE
+",,40,"4'9""",49 KG,98 'F,110/70 MMHg
+"Tuesday, 23 August, 2022",TCH-P-0144,JAI NARAYAN MAHTO,"DR.VINIT KUMAR SINHA 
+","MBBS,PG -DTM & H, MEDICINE
+",,70,"5'5""",75 KG,98 'F,120/70 MMHg
+"Wednesday, 24 August, 2022",TCH-P-0146,ANITA DEVI,"DR.VINIT KUMAR SINHA 
+","MBBS,PG -DTM & H, MEDICINE
+",,50,"4'7""",55 KG,98 ' F,120/80 MMHg
+"Thursday, 25 August, 2022",TCH-P-0147,CHANDAN KUMAR,"DR.VINIT KUMAR SINHA 
+","MBBS,PG -DTM & H, MEDICINE
+",,25,"5'6""",60 KG,98'F,120/70 MMHg
+"Friday, 26 August, 2022",TCH-P-0148,KAUSHAL KISHORE SINGH,"DR.VINIT KUMAR SINHA 
+","MBBS,PG -DTM & H, MEDICINE
+",,45,"5'9""",75 KG,98'F,130/90MMHg
+"Saturday, 27 August, 2022",TCH-P-0149,RAM NARESH RAI,"DR.VINIT KUMAR SINHA 
+","MBBS,PG -DTM & H, MEDICINE
+",,62,"5'3""",75 KG,98'F,130/90 MMHg
+"Sunday, 28 August, 2022",TCH-P-0150,JAI LAL SAH,"DR.VINIT KUMAR SINHA 
+","MBBS,PG -DTM & H, MEDICINE
+",,35,"5'3""",53 KG,98'F,120/80MMHg
+"Monday, 29 August, 2022",TCH-P-0151,RAMANAND SINHA,"DR.VINIT KUMAR SINHA 
+","MBBS,PG -DTM & H, MEDICINE
+",,42,"5'6""",60 KG,98'F,110/70 MMHg
+"Tuesday, 30 August, 2022",TCH-P-0152,SURENDRA KUMAR,"DR.VINIT KUMAR SINHA 
+","MBBS,PG -DTM & H, MEDICINE
+",,35,"5'5""",50 KG,98'F,140/100 MMHg
+"Wednesday, 31 August, 2022",TCH-P-0154,PRAMOD SHARMA,"DR.VINIT KUMAR SINHA 
+","MBBS,PG -DTM & H, MEDICINE
+",,35,"5'2""",60 KG,98'F,110/70 MMHg
+"Thursday, 1 September, 2022",TCH-P-0155,SHIVJI THAKUR,"DR.VINIT KUMAR SINHA 
+","MBBS,PG -DTM & H, MEDICINE
+",,40,"5'2""",50 KG,98'F,120/80MMHg
+"Friday, 2 September, 2022",TCH-P-0156,JYOTI KUMARI,"DR.VINIT KUMAR SINHA 
+","MBBS,PG -DTM & H, MEDICINE
+",,19,"4'9""",55 KG,98'F,120/80 MMHg
+"Saturday, 3 September, 2022",TCH-P-0157,ANNU KUMARI,"DR.VINIT KUMAR SINHA 
+","MBBS,PG -DTM & H, MEDICINE
+",,23,"4'9""",40 KG,98'F,110/70 MMHg
+"Sunday, 4 September, 2022",TCH-P-0158,NAWAL KISHORE RAI,"DR.VINIT KUMAR SINHA 
+","MBBS,PG -DTM & H, MEDICINE
+",,48,"5'3""",50 KG,98'F,120/80 MMHg
+"Monday, 5 September, 2022",TCH-P-0159,SURAJ KUMAR,"DR.VINIT KUMAR SINHA 
+","MBBS,PG -DTM & H, MEDICINE
+",,25,"5'5""",63 KG,98'F,120/80 MMHg
+"Tuesday, 6 September, 2022",TCH-P-0160,HONEY KUMARI,DR.VINIT KUMAR SINHA,"MBBS,PG-DTM & H,MEDICINE",,16,"5'4""",39 KG,98'F,
+"Wednesday, 7 September, 2022",TCH-P-0161,PUSHPA KUMARI,"DR.VINIT KUMAR SINHA 
+","MBBS,PG -DTM & H, MEDICINE
+",,35,"5'5""",54 KG,98'F,120/80 MMHg
+"Thursday, 8 September, 2022",TCH-P-0162,SAPNA DEVI,"DR.VINIT KUMAR SINHA 
+","MBBS,PG -DTM & H, MEDICINE
+",,29,"5""",55 KG,98'F,100/70 MMHg
+"Friday, 9 September, 2022",TCH-P-0163,RANJU DEVI,"DR.VINIT KUMAR SINHA 
+","MBBS,PG -DTM & H, MEDICINE
+",,30,"5""",82 KG,98'F,110/70 MHHg
+"Saturday, 10 September, 2022",TCH-P-0164,KAMLI DEVI,DR.OM PRAKASH,"MBBS,FCGP",,70,"4'8""",48 KG,98'F,140/90 MMHg
+"Sunday, 11 September, 2022",TCH-P-0165,KUNAL KUMAR,DR.OM PRAKASH,"MBBS,FCGP",,10,"4'2""",28 KG,98'F,
+"Monday, 12 September, 2022",TCH-P-0166,RANJANA DEVI,DR.OM PRAKASH,"MBBS,FCGP",,35,"5'2""",55 KG,98'F,120/80MMHg
+"Tuesday, 13 September, 2022",TCH-P-0167,AASHA DEVI,DR.OM PRAKASH,"MBBS,FCGP",,39,"4'8""",60 KG,98'F,120/80 MMHg
+"Wednesday, 14 September, 2022",TCH-P-0168,MALTI DEVI,DR. VINIT KUMAR SINHA,"MBBS,PG-DTM&H ,MEDICINE",,25 YEARS,"5'5""",50 KG,98 'F,120/80
+"Thursday, 15 September, 2022",TCH-P-0170,BIJAN PASWAAN,DR. AJAY KUMAR,"MD, PhD",,65,"5'4""",65 KG,98 'F,110/70 MMHg
+"Friday, 16 September, 2022",TCH-P-0172,SHIVESH KUMAR,DR. AJAY KUMAR,"MD,PhD",,33,"5'6""",60 KG,98 'F,120/80 MMHg
+"Saturday, 17 September, 2022",TCH-P-0173,SUMITRA DEVI,DR. AJAY KUMAR,"MD, PhD",,70,"5'2""",45 KG,98 'F,140/90 MMHg
+"Sunday, 18 September, 2022",TCH-P-0174,RAJKISHOR PASWAAN,DR. AJAY KUMAR,"MD, PhD",,50,"5'8""",45 KG,98 'F,90/50 MMHg
+"Monday, 19 September, 2022",TCH-P-0175,GITA DEVI,DR. OM PRAKASH,"MBBS, FCGP",,55,"5;5""",55 KG,98 'F,140/90 MMHg
+"Tuesday, 20 September, 2022",TCH-P-0177,REKHA KUMARI,Dr. Vinit Kumar Sinha,"MBBS, PG-DTM & H, MEDICINE",,22,"5'3""",52 KG,96 'F,110/70 MMHg
+"Wednesday, 21 September, 2022",TCH-P-0114,RAMANAND SINGH,"DR.VINIT KUMAR SINHA 
+","MBBS,PD-DTM & H, MEDICINE
+",,63,"5'4""",65 KG,97'F,120/80 MMHg
+"Thursday, 22 September, 2022",TCH-00181,Shambhu Sharma,Dr. Vinit Kumar Sinha,"MBBS, PG- DTM & H, MEDICINE",Gen.Phy,46,"5'4""",62 Kg,97'F,130/90 MMHg
+"Friday, 23 September, 2022",TCH-00182,Vinod Ray,Dr. Vinit Kumar Sinha,"MBBS, PG- DTM & H, MEDICINE","Gen,Phy.",40,"5'6""",55 Kg,97'F,120/80 MMHg
+"Saturday, 24 September, 2022",TCH-00183,R.K Singh,Dr Vijay Kumar,"MBBS, ORTHO","Gen.,Phy.",56,"5'4""",60 Kg,97'F,150/100 MMHg
+"Sunday, 25 September, 2022",TCH-00184,Neetu Kumari,Dr. Om Prakash,"MBBS,FCGP","Gen,Phy",17,5',45 Kg,98.4 'F,100/70 MMHg
+"Monday, 26 September, 2022",TCH-00186,Amarmani Kumar,Dr.Vinit Kumar Sinha,"MBBS, PG- DTM&H,MEDICINE",GENERAL PHYSICIAN,18,"5'4""",48 Kg,97 'F,100/60 MMHg
+"Tuesday, 27 September, 2022",TCH-P-0115,SHASHI KUMAR YADAV,Dr. Ajay Kumar,"Md, PhD",Gen. Phy.,58,"5'6""",65 KG,98'F,
+"Wednesday, 28 September, 2022",TCH-00191,Hanslal Rai,Dr. Ajay Kumar,"MD, PhD
+","General Physician
+",55,157 cm,48Kg,98'F,120/80 MMHg
+"Thursday, 29 September, 2022",TCH-00192,Anannaya Kumari,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",13,146 cm,35 Kg,99.5 'F,
+"Friday, 30 September, 2022",TCH-00193,REHANA KHATUN,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",27,158 CM,50 KG,98 'F,120/80 MMHg
+"Saturday, 1 October, 2022",TCH-00194,Shashi Kumar,Dr. Ajay Kumar,"MD, PhD
+","General Physician
+",25,158 cm,58 Kg,96 'F,160/90 MMHg
+"Sunday, 2 October, 2022",TCH-00195,RUPAM KUMARI,Dr. Om Prakash,"MBBS, FCGP
+","General Physician
+",30,144 cm,48 Kg,98 'F,110/70 MMHg
+"Monday, 3 October, 2022",TCH-00196,Sano Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",54,150 cm,72 Kg,97.6 'F,120/70 MMHg
+"Tuesday, 4 October, 2022",TCH-00197,MD. AAYUB,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",59,173 cm,55 KG,110/70 MMHg,
+"Wednesday, 5 October, 2022",TCH-00198,Sunita Devi,Dr. Ajay Kumar,"MD, PhD
+","General Physician
+",53,156 cm,60 Kg,98.6 'F,130/90 MMHg
+"Thursday, 6 October, 2022",TCH-00199,Puja Kumari,Dr. Ajay Kumar,"MD, PhD
+","General Physician
+",28,155,55 Kg,98.3'F,120/80 MMHg
+"Friday, 7 October, 2022",TCH-00200,Priyanshu Kumar,Dr. Ajay Kumar,"MD, PhD
+","General Physician
+",10,135 cm,25 Kg,100'F,
+"Saturday, 8 October, 2022",TCH-00201,GULLU KUMAR,Dr. Ajay Kumar,"MD, PhD
+","General Physician
+",2,88 CM,10 KG,97.4 'F,
+"Sunday, 9 October, 2022",TCH-00205,Munna Kumar,Dr. Ajay Kumar,"MD, PhD
+","General Physician
+",28,,48 Kg,98.2 'F,130/90 MMHg
+"Monday, 10 October, 2022",TCH-00206,SAVITA KUMARI,Dr. Ajay Kumar,"MD, PhD
+","General Physician
+",22,,,,
+"Tuesday, 11 October, 2022",TCH-00207,PRAMODH PASSWAN,Dr. Ajay Kumar,"MD, PhD
+","General Physician
+",42,166 CM,55 KG,98.2 'F,110/80 MMHg
+"Wednesday, 12 October, 2022",TCH-00209,SUNILA KUMARI,Dr. Om Prakash,"MBBS, FCGP
+","General Physician
+",20,164 CM,50 KG,98'F,100/70 MMHg
+"Thursday, 13 October, 2022",TCH-00210,SATISH RAI,Dr. Ajay Kumar,"MD, PhD
+","General Physician
+",23,"5'5""",75 KG,98'F,120/80 MMHg
+"Friday, 14 October, 2022",TCH-00211,Nitesh Kumar,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",35,164 cm,58 KG,97.6 'F,110/70
+"Saturday, 15 October, 2022",TCH-00212,Juli Kumari,Dr. Ajay Kumar,"MD, PhD
+","General Physician
+",27,159 cm,65 Kg,98.3 'F,110/70 MMHg
+"Sunday, 16 October, 2022",TCH-00214,Abhigyan Singh,Dr. Om Prakash,"MBBS, FCGP
+","General Physician
+",12,163 cm,48 Kg,90/60 MMHg,
+"Monday, 17 October, 2022",TCH-00215,Pratima Devi,Dr. Om Prakash,"MBBS, FCGP
+","General Physician
+",48,145 cm,60 Kg,98 'F,130/90 MMHg
+"Tuesday, 18 October, 2022",TCH-00217,BIRENDRA KUMAR SINGH,Dr. Ajay Kumar,"MD, PhD
+","General Physician
+",55,157 CM,58 KG,97.6 MMHg,
+"Wednesday, 19 October, 2022",TCH-00219,BABITA SIRIVASTAV,Dr. Ajay Kumar,"MD, PhD
+","General Physician
+",41,151 CM,48 KG,97 'F,110/80 MMHg
+"Thursday, 20 October, 2022",TCH-00220,Guddu Kumar,Dr. Om Prakash,"MBBS, FCGP
+","General Physician
+",38,160 cm,70 Kg,100 'F,130/90 MMHg
+"Friday, 21 October, 2022",TCH-00221,CHANIYA DEVI,Dr. Ajay Kumar,"MD, PhD
+","General Physician
+",85,150 CM,65 KG,98.8 'F,160/80 MMHg
+"Saturday, 22 October, 2022",TCH-00223,UMASHANKAR SINGH,Dr. Ajay Kumar,"MD,PhD","General Physician
+",80,170,55 KG,97.7 'F,150/80 MMHg
+"Sunday, 23 October, 2022",TCH-00225,RAJGIR RAY,Dr. Ajay Kumar,"MD,PhD","General Physician
+",50,155,55,97.8F,120/80MMHg
+"Monday, 24 October, 2022",TCH-00225,RAJGIR RAY,Dr. Ajay Kumar,"MD,PhD","General Physician
+",,,,,
+"Tuesday, 25 October, 2022",TCH-00227,SUJATA DEVI,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",40,141 CM,48 KG,98.7'F,110/70 MMHg
+"Wednesday, 26 October, 2022",TCH-00231,BABY KUMARI,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",45,156 CM,75 KG,97.3 'F,110/80 MMHg
+"Thursday, 27 October, 2022",TCH-00232,SUDHA KUMARI,Dr. Om Prakash,"MBBS, FCGP
+","General Physician
+",22,146 CM,70 KG,97.8 'F,120/80 MMHg
+"Friday, 28 October, 2022",TCH-00234,PRAMILA DEVI,Dr. Ajay Kumar,"MD,PhD","General Physician
+",60,156 CM,76 KG,97'F,120/80 MMHg
+"Saturday, 29 October, 2022",TCH-00235,KAUSHALYA DEVI,Dr. Ajay Kumar,"MD,PhD","General Physician
+",55,142 CM,52 KG,97.2 'F,110/60 MMHg
+"Sunday, 30 October, 2022",TCH-P-0138,MONI KUMARI,Dr. Ajay Kumar,"MD , PhD","General Physician
+",13,"4'8""",25 KG,99.4 'F,
+"Monday, 31 October, 2022",TCH-00236,Brijesh Kumar,Dr. Om Prakash,"MBBS, FCGP
+","General Physician
+",36,165 cm,80 Kg,97.5 'F,120/70 MMHg
+"Tuesday, 1 November, 2022",TCH-00237,GAJADHAR SAH,Dr. Ajay Kumar,"MD,PhD","General Physician
+",53,160 CM,50.4 KG,98.5 'F,110/80 MMHg
+"Wednesday, 2 November, 2022",TCH-00238,Rishi Kumar,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",28 Days,,2.5 Kg,,
+"Thursday, 3 November, 2022",TCH-00239,Usha Kumari,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",28,150 cm,47.6 Kg,98.5 'F,110/70 MMHg
+"Friday, 4 November, 2022",TCH-00240,AMIT KUMAR,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",23,168 CM,72 KG,97.8 'F,120/80 MMHg
+"Saturday, 5 November, 2022",TCH-00241,ANKIT KUMAR,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",20,165 CM,49,97.9,120/80 MMHg
+"Sunday, 6 November, 2022",TCH-00242,ANITA SHARMA,Dr. Ajay Kumar,"MD,PhD","General Physician
+",40,154 CM,72.2 KG,97.5 'F,130/90 MMHg
+"Monday, 7 November, 2022",TCH-00243,RAMESHWAR PD SINGH,Dr. Ajay Kumar,"MD,PhD","General Physician
+",72,173,84 KG,99.6 'F,140/60 CM
+"Tuesday, 8 November, 2022",TCH-00244,FARHAT ANJUM,Dr. Ajay Kumar,"MD,PhD","General Physician
+",28,"5'4""",55 KG,98'F,120/80MMHg
+"Wednesday, 9 November, 2022",TCH-P-0132,IRFAN ALAM,Dr. Om Prakash,"MBBS ,FCGP",,42,"5'4""",60 KG,98.2'F,120/90 MMHg
+"Thursday, 10 November, 2022",TCH-00246,Pankaj Kumar,Dr. Ajay Kumar,"MD,PhD","General Physician
+",30,166 cm,55 Kg,99.0'F,110/80 MMHg
+"Friday, 11 November, 2022",TCH-00248,Surendra Choudhary,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",58,167 cm,79 Kg,97.7 'F,144/88 MMHg
+"Saturday, 12 November, 2022",TCH-00249,Indu Kumari,Dr. Ajay Kumar,"MD,PhD","General Physician
+",35,155CM,60KG,98.6,110/80MMHg
+"Sunday, 13 November, 2022",TCH-00252,Shatendra Singh,Dr. Ajay Kumar,"MD,PhD","General Physician
+",57,170CM,74KG,97.4F,130/80MMHG
+"Monday, 14 November, 2022",TCH-00253,Sana Parveen,Dr. Ajay Kumar,"MD,PhD","General Physician
+",14,152CM,50KG,98.6F,110/80MMHg
+"Tuesday, 15 November, 2022",TCH-00254,RAM PARVESH SINGH,Dr. Ajay Kumar,"MD,PhD","General Physician
+",70,155CM,70KG,100F,150/70MMHg
+"Wednesday, 16 November, 2022",TCH-00255,SATRUGHAN SAH,Dr. Ajay Kumar,"MD,PhD","General Physician
+",65,160,73kg,97.4f,110/80mmhG
+"Thursday, 17 November, 2022",TCH-00256,Shanti Devi,"Dr Sunil Kumar,MBBS,MS Ortho",,MS Ortho,70,142 cm,35 Kg,98,110/70 MMHg
+"Friday, 18 November, 2022",TCH-00257,Vikeranjan Kumar,"Dr Sunil Kumar,MBBS,MS Ortho",,MS Ortho,18,166 cm,48.5 Kg,97.8 'F,110/80 MMHg
+"Saturday, 19 November, 2022",TCH-00259,Pramila Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",40,149 cm,63 Kg,98 'F,110/70 MMHg
+"Sunday, 20 November, 2022",TCH-00260,Tejubin Nisha,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",60,145 cm,55 Kg,99.3 'F,170/80 MMHg
+"Monday, 21 November, 2022",TCH-00261,Indrajeet Sah,Dr.Vinit Kumar Sinha,"MBBS,PG-DTM & H, MEDICINE","General Physician
+",28,163 cm,57 Kg,98.2 'F,118/80
+"Tuesday, 22 November, 2022",TCH-00262,SHRISTI KUMARI,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",15 MONTHS,-,8 KG,97.4 'F,-
+"Wednesday, 23 November, 2022",TCH-00263,MINTU KUMARI,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",27,159 CM,47 KG,97.7 'F,100/68 MMHg
+"Thursday, 24 November, 2022",TCH-00264,Pramod Chaudhari,Dr. Ajay Kumar,"MD,PhD","General Physician
+",42,63 cm,83.5 Kg,97.4 'F,130/70 MMHg
+"Friday, 25 November, 2022",TCH-00266,Sakunta Devi,Dr. Ajay Kumar,"MD,PhD","General Physician
+",43,154 cm,71 Kg,97.8 'F,130/90 MMHg
+"Saturday, 26 November, 2022",TCH-00267,Jailash Devi,Dr. Ajay Kumar,"MD,PhD","General Physician
+",65,160 cm,55 Kg,97.4 'F,110/60 MMHg
+"Sunday, 27 November, 2022",TCH-00268,KUNTI DEVI,Dr. Ajay Kumar,"MD,PhD","General Physician
+",60,148 CM,63 KG,98.5 'F,150/80 MMHg
+"Monday, 28 November, 2022",TCH-00269,HIRA TIWARI,"Dr Sunil Kumar,MBBS,MS Ortho",,MS Ortho,64,152,71 Kg,97.9 'F,150/80 MMHg
+"Tuesday, 29 November, 2022",TCH-00270,Mrs. Minakshi,"Dr Sunil Kumar,MBBS,MS Ortho",,MS Ortho,37,148 cm,81 KG,97.8 'F,120/80 MMHg
+"Wednesday, 30 November, 2022",TCH-00271,SHALONI KUMARI,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",24,160 cm,43 Kg,97.8 'F,120/70 MMHg
+"Thursday, 1 December, 2022",TCH-00273,INDU SINGH,"Dr Sunil Kumar,MBBS,MS Ortho",MBBS,MS Ortho,60,146 cm,47.3 Kg,97'F,130/80 MMHg
+"Friday, 2 December, 2022",TCH-00274,SHIV KUMAR,Dr. Ajay Kumar,"MD,PhD","General Physician
+",36,,,,
+"Saturday, 3 December, 2022",TCH-00278,RAJEEV KUMAR,Dr. Ajay Kumar,"MD,PhD","General Physician
+",26,165CM,71KG,,
+"Sunday, 4 December, 2022",TCH-00281,Raghuvendra  Singh,"Dr Sunil Kumar,MBBS,MS Ortho",MBBS,MS Ortho,37,159 cm,62 Kg,,
+"Monday, 5 December, 2022",TCH-00282,Tabassum Parveen,"Dr Sunil Kumar,MBBS,MS Ortho",MBBS,MS Ortho,38,148 cm,54 Kg,98.1 'F,122/70 MMHg
+"Tuesday, 6 December, 2022",TCH-00283,ARJUN PASWAN,Dr.Vinit Kumar Sinha,"MD,PhD","General Physician
+",42,,64 KG,,
+"Wednesday, 7 December, 2022",TCH-00284,Sunita Kumari,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",35,156 cm,59 Kg,97.7 'F,100/80 MMHg
+"Thursday, 8 December, 2022",TCH-00285,MALTI DEVI,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",65,148CM,48 KG,97.9'F,140/90 MMHg
+"Friday, 9 December, 2022",TCH-00216,Rajesh Kumar Gupta,Dr. Ajay Kumar,MD PhD,"General Physician
+",36,167 cm,70 KG,98.8 'F,110/80 MMHg
+"Saturday, 10 December, 2022",TCH-00286,Rekha Sharma,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH",MBBS,MS Ortho,51,152 cm,74 Kg,98.1'F,130/70 MMHg
+"Sunday, 11 December, 2022",TCH-00288,Raghunath Sharma,Dr. Ajay Kumar,"MD,PhD","General Physician
+",55,174 cm,71 Kg,98.4 'F,110/80 MMHg
+"Monday, 12 December, 2022",TCH-00289,SUJEET KUMAR,Dr. Ajay Kumar,"MD,PhD","General Physician
+",26,169 cm,78 Kg,97.9 'F,100/70 MMHg
+"Tuesday, 13 December, 2022",TCH-00291,SATISH KUMAR,Dr. Ajay Kumar,"MD,PhD","General Physician
+",55,170CM,98KG,,
+"Wednesday, 14 December, 2022",TCH-P-0153,PRINCE KUMAR,Dr.Vinit Kumar Sinha,"MBBS,PG -DTM & H, MEDICINE
+","General Physician
+",17,"5'7""",40 KG,99.9 'F,120/98 MMHg
+"Thursday, 15 December, 2022",TCH-00292,Priti Kumari,Dr. Ajay Kumar,"MD,PhD","General Physician
+",23,162 Cm',56 Kg,97.3'F,110/70 MMHg
+"Friday, 16 December, 2022",TCH-00293,Krishna Kumari,Dr. Ajay Kumar,"MD,PhD","General Physician
+",23,156 cm,63 Kg,98.2 'F,120/70 MMHg
+"Saturday, 17 December, 2022",TCH-00294,Soni Kumari,Dr. Ajay Kumar,"MD,PhD","General Physician
+",22,162 cm,53.4 Kg,97.7 'F,100/70 MMHg
+"Sunday, 18 December, 2022",TCH-00295,Rakesh Kumar,Dr. Ajay Kumar,"MD,PhD","General Physician
+",42,167 cm,76 Kg,97.2 'F,130/80 MMHg
+"Monday, 19 December, 2022",TCH-00230,SAPNA DEVI,Dr. Ajay Kumar,"MD,PhD","General Physician
+",21,160 CM,55 KG,97.7'F,106/80 MMHg
+"Tuesday, 20 December, 2022",TCH-00299,SHIVLAL SAHNI,Dr. Ajay Kumar,"MD,PhD","General Physician
+",65,159CM,79,97.3F,140/70MMHG
+"Wednesday, 21 December, 2022",TCH-00300,BADAL KUMAR,Dr. Ajay Kumar,"MD,PhD","General Physician
+",18,164CM,55KG,98.4,108/68MMHg
+"Thursday, 22 December, 2022",TCH-P-0134,HULAS RAI,Dr. Ajay Kumar,"MD,PhD",OPD,55,"4'11""",55 KG,97.2 'F,130/80 MMHg
+"Friday, 23 December, 2022",TCH-00302,Mr. Vivakanand,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",26,164 cm,40 Kg,97.9'F,106/70 MMHg
+"Saturday, 24 December, 2022",TCH-00303,Anjali Kumari,Dr. Ajay Kumar,"MD,PhD","General Physician
+",25,150 cm,55 Kg,97.5 'F,110/78 MMHg
+"Sunday, 25 December, 2022",TCH-00305,Akshilesh Das,Dr. Ajay Kumar,"MD,PhD","General Physician
+",36,167cm,65 KG,98.5 'F,124/80 MMHg
+"Monday, 26 December, 2022",TCH-00306,DILIP KUMAR,Dr. Ajay Kumar,"MD,PhD","General Physician
+",35,161cm,65kg,,
+"Tuesday, 27 December, 2022",Tch-P-0121,PARMILA DEVI,Dr. Ajay Kumar,MD PhD,"General Physician
+",60,"4'9""",50 KG,97.3'F,150/90 MMHg
+"Wednesday, 28 December, 2022",TCH-00309,Mr. Nitin Mukesh,Dr. Ajay Kumar,"MD,PhD","General Physician
+",21,173 cm,52 Kg,97.6 'F,150/70 MMHg
+"Thursday, 29 December, 2022",TCH-00310,PURAN KUMAR SAH,Dr. Ajay Kumar,"MD,PhD","General Physician
+",21,155CM,58KG,,
+"Friday, 30 December, 2022",TCH-00311,RADHIKA DEVI,Dr. Ajay Kumar,"MD,PhD","General Physician
+",65,,,,
+"Saturday, 31 December, 2022",TCH-P-0130,PARMILA DEVI,Dr. Ajay Kumar,"MD,PhD",General Physician,48,"4'9""",50 KG,97.6 'F,140/84MMHg
+"Sunday, 1 January, 2023",TCH-00315,SUNITA DEVI,Dr. Ajay Kumar,"MD,PhD","General Physician
+",53,153 CM,71 KG,98.6 'F,140/70 MMHg
+"Monday, 2 January, 2023",TCH-00320,Rajeev Kumar,Dr. Om Prakash,"MBBS, FCGP
+","General Physician
+",33,,,,120/84 MMHg
+"Tuesday, 3 January, 2023",TCH-00322,Sikandar Rai,Dr. Ajay Kumar,"MD,PhD","General Physician
+",80,163 cm,44.7 Kg,97.9 'F,140/70 MMHg
+"Wednesday, 4 January, 2023",TCH-00325,Mrs. Karishma,Dr. Ajay Kumar,"MD,PhD","General Physician
+",25,156 cm,49 Kg,98.3 'F,100/70 MMHg
+"Thursday, 5 January, 2023",TCH-00250,UMA DEVI,Dr. Ajay Kumar,"MD,PhD","General Physician
+",45,145CM,71KG,,
+"Friday, 6 January, 2023",TCH-00329,Mala Devi,Dr. Ajay Kumar,"MD,PhD","General Physician
+",29,156 cm,47.9 Kg,98.6 'F,100/80 MMHg
+"Saturday, 7 January, 2023",TCH-00333,Chandrashekhar Kumar,Dr. Ajay Kumar,"MD,PhD","General Physician
+",26,77.2 Kg,171 cm,97.5 'F,140/88 MMHg
+"Sunday, 8 January, 2023",TCH-00334,Harendra Kumar,Dr. Ajay Kumar,"MD,PhD","General Physician
+",33,165 CM,68 KG,97.6 'F,120/88 MMHg
+"Monday, 9 January, 2023",TCH-00337,Lalan Sah,Dr. Ajay Kumar,"MD,PhD","General Physician
+",28,164 cm,50 Kg,98.9'F,90/56 MMHg
+"Tuesday, 10 January, 2023",TCH-00338,Mina Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",45,,45 Kg,99.6 'F,110/74 MMHg
+"Wednesday, 11 January, 2023",TCH-P-0145,KANHAI KUMAR,Dr. Ajay Kumar,"MD, PhD","General Physician
+",21,"5'6""",60KG,99.4 'F,112/68 MMHg
+"Thursday, 12 January, 2023",TCH-00339,Surendra Kumar,Dr. Ajay Kumar,"MD,PhD","General Physician
+",40,167CM,83KG,97.6F,160/100MMHg
+"Friday, 13 January, 2023",TCH-00342,Mr. Shubansh Rai,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",60,164 cm,62 .6 Kg,97.5 'F,110/64 MMHg
+"Saturday, 14 January, 2023",TCH-00343,Ram Sagar Rai,Dr. Ajay Kumar,"MD,PhD","General Physician
+",67,153 CM,55 KG,98'F,140/80 MMHg
+"Sunday, 15 January, 2023",TCH-00344,Mahesh Chandra Verma,,,,,,,,
+"Monday, 16 January, 2023",TCH-00346,Tara Sinha,Dr. Vijay Kumar,"MBBS, PG-DTM&H, Medicine","General Physician
+",42,,,,
+"Tuesday, 17 January, 2023",TCH-00347,Rishu Kumari,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",28,158 cm,57 Kg,98.1 'F,110/78 MMHg
+"Wednesday, 18 January, 2023",TCH-00348,JAI PRAKASH SAHNI,Dr. Ajay Kumar,"MD,PhD","General Physician
+",45,,,,
+"Thursday, 19 January, 2023",TCH-00245,Deepak Kumar,Dr. Ajay Kumar,"MD,PhD","General Physician
+",30,166cm,52kg,98.6 'F,110/80 MMHg
+"Friday, 20 January, 2023",TCH-00349,Kajal Kumari,Dr. Ajay Kumar,"MD,PhD","General Physician
+",26,144 cm,44 Kg,98.3 'F,100/60 MMHg
+"Saturday, 21 January, 2023",TCH-00350,Sunita Devi,Dr. Ajay Kumar,"MD,PhD","General Physician
+",28,157 cm,42.1 Kg,98.3 'F,110/80 MMHg
+"Sunday, 22 January, 2023",TCH-00351,MUNNA KUMAR,Dr. Ajay Kumar,"MD,PhD","General Physician
+",27,,,,
+"Monday, 23 January, 2023",TCH-P-0176,BHARTANDU BHARTI,Dr. Ajay Kumar,MD PhD,"General Physician
+",24,"5'6""",47KG,97.4 'F,100/60 MMHg
+"Tuesday, 24 January, 2023",TCH-00352,Viru Raj,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,19,,,98.0 'F,110/60 MMHg
+"Wednesday, 25 January, 2023",TCH-00353,Nita Varma,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,42,,,,
+"Thursday, 26 January, 2023",TCH-00354,Anish Pankaj,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,44,,,97.4 'F,112/72 MMHg
+"Friday, 27 January, 2023",TCH-00355,Chandramani Kumar,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,24,184 cm,82 Kg,,
+"Saturday, 28 January, 2023",TCH-00356,Jhapsi Ram,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,77,152 cm,56.7 Kg,98.1'F,150/96 MMHg
+"Sunday, 29 January, 2023",TCH-00357,Pankaj Kumar,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,24,,,,
+"Monday, 30 January, 2023",TCH-00358,Sonu Kumar Yadav,Dr. Ajay Kumar,"MD,PhD","General Physician
+",31,163 cm,57 KG,97.5'F,118/76 MMHg
+"Tuesday, 31 January, 2023",TCH-00359,Sunita Devi,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,50,,,,
+"Wednesday, 1 February, 2023",TCH-00360,Ram Kali Devi,Dr. Ajay Kumar,"MD,PhD","General Physician
+",65,151 cm,49 Kg,97.6 'F,130/70 MMHg
+"Thursday, 2 February, 2023",TCH-00363,Miss. Anima,Dr. Ajay Kumar,"MD,PhD","General Physician
+",20,156 cm,51.8 Kg,98.8 'F,120/80 MMHg
+"Friday, 3 February, 2023",TCH-00364,Sunita Devi,Dr. Ajay Kumar,"MD,PhD","General Physician
+",45,158 cm,63 Kg,97.9 'F,122/80 MMHg
+"Saturday, 4 February, 2023",TCH-00365,Manvi Sinha,Dr. Ajay Kumar,"MD,PhD","General Physician
+",4 Months,-,4 Kg 300 Grm,97.7 'F,-
+"Sunday, 5 February, 2023",TCH-00369,Samim Alam,Dr. Ajay Kumar,"MD,PhD","General Physician
+",48,"5'2""",63Kg,,140/80MMHg
+"Monday, 6 February, 2023",TCH-00370,Ram Chander Thakur,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,70,,,,
+"Tuesday, 7 February, 2023",TCH-00287,Urmila Devi,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH",MBBS,MS Ortho,70,152 cm,54 Kg,,
+"Wednesday, 8 February, 2023",TCH-00313,Banarsi Devi,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,75,153 cm,66kg,,
+"Thursday, 9 February, 2023",TCH-00372,Mrs . Raagni Devi,Dr. Ajay Kumar,"MD,PhD","General Physician
+",56,155 cm,48.3 Kg,97.3 'F,120/70 MMHg
+"Friday, 10 February, 2023",TCH-00373,Mrs. Jhamu Devi,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,58,138 cm,46 Kg,97.6 'F,160/90 MMHg
+"Saturday, 11 February, 2023",TCH-00376,Lakshmi Kumari,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,42,,,,
+"Sunday, 12 February, 2023",TCH-00377,Ram Ekbal Choudhary,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",66,158 cm,63 Kg,97.3 'F,140/74 MMHg
+"Monday, 13 February, 2023",TCH-00378,Chandani Kumari,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",16,147 cm,45 Kg,98.3 'F,110/80 MMHg
+"Tuesday, 14 February, 2023",TCH-00379,Mrs. Sulakshana,Dr. Ajay Kumar,"MD,PhD","General Physician
+",48,160 cm,70 Kg,97.4 'F,140/90 MMHg
+"Wednesday, 15 February, 2023",TCH-00380,Sahida Khatoon,Dr. Ajay Kumar,"MD,PhD","General Physician
+",60,153 cm,70 Kg,97.5 'F,160/70 MMHg
+"Thursday, 16 February, 2023",TCH-00381,Rita Devi,Dr. Ajay Kumar,"MD,PhD","General Physician
+",35,147.5 CM,69 KG,98.5'F,110/80 MMHg
+"Friday, 17 February, 2023",TCH-00382,Kriti Narayan,Dr. Ajay Kumar,"MD,PhD","General Physician
+",72,156 cm,45 Kg,97.9 'F,100/80 MMHg
+"Saturday, 18 February, 2023",TCH-00384,Arun Kumar,Dr. Ajay Kumar,"MD,PhD","General Physician
+",63,172 cm,79 Kg,98.2'F,130/70 MMHg
+"Sunday, 19 February, 2023",TCH-00388,ANIMESH ANAND,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,03 YRS,97CM,12KG,,
+"Monday, 20 February, 2023",TCH-00389,MD ISRAFIL,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,33,167,51,98.1F,130/80MMHg
+"Tuesday, 21 February, 2023",TCH-00391,SUMITRA DEVI,Dr. Ajay Kumar,"MD,PhD","General Physician
+",50,,63KG,,
+"Wednesday, 22 February, 2023",TCH-00392,SAROJ KUMAR,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,36,163CM,79Kg,,
+"Thursday, 23 February, 2023",TCH-P-0136,AJEET KUMAR,Dr. Ajay Kumar,"MD, PhD","General Physician
+",13,"4'9""",30 KG,98.9 'F,
+"Friday, 24 February, 2023",TCH-00208,RINKU DEVI,Dr. Ajay Kumar,"MD, PhD
+","General Physician
+",40,139 CM,51.9 KG,98.5 'F,110/80 MMHg
+"Saturday, 25 February, 2023",TCH-00394,RITA DEVI,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",45,150CM,49KG,,120/80MMHg
+"Sunday, 26 February, 2023",TCH-00395,RITA DEVI,Dr. Ajay Kumar,"MD,PhD","General Physician
+",37,150CM,54KG,,
+"Monday, 27 February, 2023",TCH-00318,Parmila Devi,Dr. Ajay Kumar,"MD,PhD","General Physician
+",48,148CM,56KG,97.4F,100/60MMHg
+"Tuesday, 28 February, 2023",TCH-00396,Meena Devi,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,60,149CM,75KG,97.3F,140/80MMHg
+"Wednesday, 1 March, 2023",TCH-00398,RAGINI KUMARI,Dr. Ajay Kumar,"MD,PhD","General Physician
+",30,144CM,33KG,,120/75MMHg
+"Thursday, 2 March, 2023",TCH-00304,MD. ALI,Dr. Ajay Kumar,"MD,PhD","General Physician
+",60,149 cm,68 Kg,97.2 'F,160/80 MMHg
+"Friday, 3 March, 2023",TCH-00400,Nageswari Devi,Dr.Vinit Kumar Sinha,"MBBS, Ex Resident SKMCH","General Physician
+",60,146cm,71kg,97.5f,120/60
+"Saturday, 4 March, 2023",TCH-00402,Arun Rai,Dr. Ajay Kumar,"MD,PhD","General Physician
+",46,173Cm,84Kg,97.3F,130/80
+"Sunday, 5 March, 2023",TCH-00406,PREM KUMAR,Dr. Ajay Kumar,"MD,PhD","General Physician
+",24,162CM,59KG,,
+"Monday, 6 March, 2023",TCH-P-0117,Sairin Parveen,Dr. Ajay Kumar,"MD, PhD
+","General Physician
+",17,"5'4""",47 KG,98'F,118/76 MMHg
+"Tuesday, 7 March, 2023",TCH-00340,Veena Devi,Dr. Ajay Kumar,"MD,PhD","General Physician
+",42,161CM,63KG,96.8F,100/60
+"Wednesday, 8 March, 2023",TCH-00408,Sambhu Ray,Dr. Ajay Kumar,"MD,PhD","General Physician
+",44,167,59,,
+"Thursday, 9 March, 2023",TCH-00410,SANJU DEVI,Dr. Ajay Kumar,"MD,PhD","General Physician
+",48,,,,
+"Friday, 10 March, 2023",TCH-00336,Aryan Kumar,Dr. Ajay Kumar,"MD,PhD","General Physician
+",4,100 cm,15 Kg,99.8 'F,
+"Saturday, 11 March, 2023",TCH-00413,Susila Devi,Dr. Ajay Kumar,"MD,PhD","General Physician
+",45,150Cm,63Kg,,120/70
+"Sunday, 12 March, 2023",TCH-00415,Ayushi,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH",,,4,92cm,11kg,,
+"Monday, 13 March, 2023",TCH-00419,Aman Kumar,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",18,160Cm,44Kg,,
+"Tuesday, 14 March, 2023",TCH-00422,Parasnath Sah,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",67,,,,
+"Wednesday, 15 March, 2023",TCH-00424,UDAY KUMAR,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",23,160CM,60.3KG,97.7F,122/80
+"Thursday, 16 March, 2023",TCH-00425,Anmol Kumar,Dr. Ajay Kumar,"MD,PhD","General Physician
+",7,112Cm,18Kg,,
+"Friday, 17 March, 2023",TCH-00427,Shiv Kumari,Dr. Ajay Kumar,"MD,PhD","General Physician
+",70,,,,
+"Saturday, 18 March, 2023",TCH-00484,Gaurav Kumar,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",23,178cm,90kg,97.0'F,124/84
+"Sunday, 19 March, 2023",TCH-00224,Shrikant Prashad,Dr. Ajay Kumar,"MD,PhD","General Physician
+",52,168 cm,70 Kg,96.5F,120/70
+"Monday, 20 March, 2023",TCH-00428,Mukesh Kumar,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,20,169Cm,39.6Kg,99.4F,130/60
+"Tuesday, 21 March, 2023",TCH-00430,Suman Kumar,Dr. Ajay Kumar,"MD,PhD","General Physician
+",27,177Cm,66Kg,,
+"Wednesday, 22 March, 2023",TCH-P-0124,RAJ KUMAR SINGH,Dr. Ajay Kumar,"MD,PhD","General Physician
+",56,168,67 Kg,96.6F,140/80 MMHg
+"Thursday, 23 March, 2023",TCH-00383,Umesh Nandan Singh,Dr. Ajay Kumar,"MD,PhD","General Physician
+",54,152 cm,53.4Kg,97.2'F,110/74
+"Friday, 24 March, 2023",TCH-00431,Manjay Kumar,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,33y,160cm,56.6kg,96.3 F,130/76
+"Saturday, 25 March, 2023",TCH-00435,DEVENDRA PD SINHA,Dr. Ajay Kumar,"MD,PhD","General Physician
+",82,,,,
+"Sunday, 26 March, 2023",TCH-00213,Sujata Suman,Dr. Ajay Kumar,"MD, PhD
+","General Physician
+",31,152Cm,63Kg,97.3'F,130/74
+"Monday, 27 March, 2023",TCH-00218,Shekher Kumar,Dr. Ajay Kumar,"MD, PhD
+","General Physician
+",32,170 CM,73 KG,97.9'F,130/80
+"Tuesday, 28 March, 2023",TCH-00437,ANAND KUMAR,Dr. Ajay Kumar,"MD,PhD","General Physician
+",43,160CM,63KG,,100/74
+"Wednesday, 29 March, 2023",TCH-00438,Supriya Kumari,Dr. Ajay Kumar,"MD,PhD","General Physician
+",19,152cm,45kg,,110/70
+"Thursday, 30 March, 2023",TCH-P-0135,MD. NAZIZ,Dr. Ajay Kumar,"MD,PhD","General Physician
+",81,"5'4""",70 Kg,97.9 F,120/60
+"Friday, 31 March, 2023",TCH-00439,Noor Jahan Khatoon,Dr. Ajay Kumar,"MD,PhD","General Physician
+",60,141cm,56kg,,
+"Saturday, 1 April, 2023",TCH-00442,Chinta Devi,Dr. Ajay Kumar,"MD,PhD","General Physician
+",42,158CM,44.4KG,,120/80
+"Sunday, 2 April, 2023",TCH-00443,SAROJ PRIYANKA,Dr. Ajay Kumar,"MD,PhD","General Physician
+",38,145CM,62.3KG,97.2F,125/95
+"Monday, 3 April, 2023",TCH-00445,MEENA DEVI,Dr. Ajay Kumar,"MD,PhD","General Physician
+",52,,,,
+"Tuesday, 4 April, 2023",TCH-00446,SHIVAM KUMAR,Dr. Ajay Kumar,"MD,PhD","General Physician
+",8,,,,
+"Wednesday, 5 April, 2023",TCH-00447,RAM BIRAJI,Dr. Ajay Kumar,"MD,PhD","General Physician
+",38,,,,
+"Thursday, 6 April, 2023",TCH-00448,DUKHANI,Dr. Ajay Kumar,"MD,PhD","General Physician
+",26,,,,
+"Friday, 7 April, 2023",TCH-00452,ANKIT RAJ,Dr. Ajay Kumar,"MD,PhD","General Physician
+",14,168CM,47.4KG,,
+"Saturday, 8 April, 2023",TCH-00190,Sunil Kumar,Dr. Ajay Kumar,"MD , PhD","General Physician
+",30,"5'5""",59KG,97.6'F,114/76 MMHg
+"Sunday, 9 April, 2023",TCH-00453,Hashina Khatoon,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,80,156,45,95.5 F,110/70
+"Monday, 10 April, 2023",TCH-00454,Ayush Kumar,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",10,,,,
+"Tuesday, 11 April, 2023",TCH-00456,Sankar Rai,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",55,166cm,50kg,97.7f,110/70
+"Wednesday, 12 April, 2023",TCH-00457,SONU KUMAR,Dr. Ajay Kumar,"MD,PhD","General Physician
+",19,162cm,57Kg,97.5F,124/80
+"Thursday, 13 April, 2023",TCH-00458,S Nashreen,Dr. Ajay Kumar,"MD,PhD","General Physician
+",46,158cm,96KG,96.8F,120/80
+"Friday, 14 April, 2023",TCH-00367,Mr. Devesh Kumar,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",19,171 cm,56 Kg,98.4 'F,110/80 MMHg
+"Saturday, 15 April, 2023",TCH-00393,Lalan Rai,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",36,162cm,60kg,96.9F,
+"Sunday, 16 April, 2023",TCH-00462,Md Maniruddin,Dr. Ajay Kumar,"MD,PhD","General Physician
+",55,160cm,56kg,96.4'F,124/80
+"Monday, 17 April, 2023",TCH-00464,Arun Kumar,Dr. Ajay Kumar,"MD,PhD","General Physician
+",37,,52.5kg,,
+"Tuesday, 18 April, 2023",TCH-00000,Randhir Kumar,Dr Ajay Kumar,,,30,6.7,60kg,96,120/70
+"Wednesday, 19 April, 2023",TCH-00465,Dr. Sunil Kumar,Dr. Ajay Kumar,"MD,PhD","General Physician
+",48,,,,
+"Thursday, 20 April, 2023",TCH-00467,Santosh Kumar,Dr. Ajay Kumar,"MD,PhD","General Physician
+",42yrs,158cm,81kg,97.1F,124/78
+"Friday, 21 April, 2023",TCH-00468,Masoom Kumari,Dr. Ajay Kumar,"MD,PhD","General Physician
+",16,152cm,42.7kg,,
+"Saturday, 22 April, 2023",TCH-00469,Sardha Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",50,148cm,40kg,97.1'F,120/80
+"Sunday, 23 April, 2023",TCH-00472,Ruchi Kumari,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,19,,,,
+"Monday, 24 April, 2023",TCH-00473,Lalan Paswan,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,42,,,,
+"Tuesday, 25 April, 2023",TCH-00341,Ram Kathin Sahani,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,60,,,,
+"Wednesday, 26 April, 2023",TCH-00474,Mahesh Paswan,Dr. Vijay Kumar,"MBBS, PG-DTM&H, Medicine","General Physician
+",62,169cm,50kg,97.2'F,100/70
+"Thursday, 27 April, 2023",TCH-00475,Sikander Kumar,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,24,175cm,77kg,,
+"Friday, 28 April, 2023",TCH-00476,Sunita Devi,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,45,,,,
+"Saturday, 29 April, 2023",TCH-00477,Ankit Kumar,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,22,,,,
+"Sunday, 30 April, 2023",TCH-00479,Ramkali Devi,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,65,,,,
+"Monday, 1 May, 2023",TCH-00374,Ram Brisksh Sah,Dr. Vijay Kumar,"MD,PhD","General Physician
+",80,164 cm,68 Kg,97.5'F,110/70
+"Tuesday, 2 May, 2023",TCH-00387,Mr. Amit Kumar,Dr.Vinit Kumar Sinha,"MD,PhD","General Physician
+",33,163 cm,54.5 Kg,97.3,120/70
+"Wednesday, 3 May, 2023",TCH-00482,Aruna Devi,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,45,153,82kg,97.3'F,120/80
+"Thursday, 4 May, 2023",TCH-00483,Nagina Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",48,144cm,44,98.2'F,118/80
+"Friday, 5 May, 2023",TCH-00371,Virendra Singh,Dr. Vijay Kumar,"MD,PhD","General Physician
+",85,162 cm,49 Kg,97.0'F,120/70
+"Saturday, 6 May, 2023",TCH-00332,Shyamsundra Bhagat,Dr. Vijay Kumar,"MD,PhD","General Physician
+",58,169 cm,65 Kg,97.6 'F,100/60
+"Sunday, 7 May, 2023",TCH-00429,Shakuntala Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",60,,,,
+"Monday, 8 May, 2023",TCH-00490,Aditya Kumar,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,19,183cm,61.5kg,97.7'f,110/74
+"Tuesday, 9 May, 2023",TCH-00493,Kajal Kumari,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,23,149cm,63kg,97.8'f,106/80
+"Wednesday, 10 May, 2023",TCH-00494,Dharmender Kumar,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,30,177CM,64.5KG,97.6F,110/80
+"Thursday, 11 May, 2023",TCH-00495,Archana Kumari,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,49,,,,
+"Friday, 12 May, 2023",TCH-00496,Shanti Devi,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,65,147cm,43.3KG,97.2F,110/50
+"Saturday, 13 May, 2023",TCH-00497,Atma Kumari,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,26,,,,
+"Sunday, 14 May, 2023",TCH-00222,ANKIT ANAND,Dr.Vinit Kumar Sinha,"MD,PhD","General Physician
+",13,144 CM,35 KG,98.3 'F,-
+"Monday, 15 May, 2023",TCH-00414,Mirdula Devi,Dr.Vinit Kumar Sinha,"MBBS, Ex Resident SKMCH","General Physician
+",40,154Cm,46Kg,99.0'f,110/74mmhg
+"Tuesday, 16 May, 2023",TCH-00501,Rohit Kumar,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",17,,,,
+"Wednesday, 17 May, 2023",TCH-00502,Halima Khatoon,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",50,,,99.4;F,
+"Thursday, 18 May, 2023",TCH-P-0112,SAKLI DEVI,Dr.Vinit Kumar Sinha,"MBBS PG- DTM&H,MEDICINE","General Physician
+",65,"4'9""ft",32 KG,,
+"Friday, 19 May, 2023",TCH-00296,ZEBA WAQTYA,Dr. Ajay Kumar,"MD,PhD","General Physician
+",22,153cm,60kg,98.0'f,110/70mmhg
+"Saturday, 20 May, 2023",TCH-00505,Rishi Kumar,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,30,,,,
+"Sunday, 21 May, 2023",TCH-00506,Sanju Kumari,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,35,,,,
+"Monday, 22 May, 2023",TCH-00507,BADRU NISHA,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,75,,,,
+"Tuesday, 23 May, 2023",TCH-00509,Putul Devi,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,28,,,,
+"Wednesday, 24 May, 2023",TCH-00401,Deepak Kumar,Dr.Vinit Kumar Sinha,"MD,PhD","General Physician
+",28,170cm,76Kg,,
+"Thursday, 25 May, 2023",TCH-00512,Anita Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",32,160cm,47.1kg,98.0'f,100/66mmhg
+"Friday, 26 May, 2023",TCH-00513,Ranju Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",35,152cm,71kg,97.6'f,110/80mmhg
+"Saturday, 27 May, 2023",TCH-00516,Asha Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",25,159cm,44.4kg,99.0'f,100/76mmhg
+"Sunday, 28 May, 2023",TCH-00517,Banarshi Devi,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,60,151cm,45kg,98.0'f,130/74mmhg
+"Monday, 29 May, 2023",TCH-00001,Anil,Dr Ajay Kumar,MBBS,Surgen,30,5,60Kg,97,120/70
+"Tuesday, 30 May, 2023",TCH-00327,Ruma Devi,Dr. Vijay Kumar,"MD,PhD","General Physician
+",60,140Cm,34.8Kg,97.7'F,150/70mmhg
+"Wednesday, 31 May, 2023",TCH-00519,Ishk Kumari Devi,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,65,150cm,65.5kg,96.8'f,110/60
+"Thursday, 1 June, 2023",TCH-00521,Khushi Kumari,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,13,134cm,27kg,,
+"Friday, 2 June, 2023",TCH-00522,Kaushalya Devi,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,60,151cm,36kg,,
+"Saturday, 3 June, 2023",TCH-00440,Santi Devi,Dr. Vijay Kumar,"MD,PhD","General Physician
+",46,143Cm,50Kg,95.0'F,120/80
+"Sunday, 4 June, 2023",TCH-00524,Priyanshi Raj,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,23,5ft 2inch,50KG,98.5F,120/80MMHg
+"Monday, 5 June, 2023",TCH-00526,Kishun Paswan,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,62,165cm,51.8kg,,
+"Tuesday, 6 June, 2023",TCH-00272,Binda Devi,Dr. Vijay Kumar,"MD,PhD","General Physician
+",65,145 cm,46KG,96.5 'F,120/74MMHg
+"Wednesday, 7 June, 2023",TCH-00460,Rubi Kumari,Dr. Vijay Kumar,"MD,PhD","General Physician
+",25,156,65.9KG,97.7F,110/78
+"Thursday, 8 June, 2023",TCH-00527,Bhulan Mahto,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",72,167cm,71.2Kg,95.5F,110/60
+"Friday, 9 June, 2023",TCH-00528,Sijanti Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",57,151cm,66.1Kg,97.6F,110/70MMHg
+"Saturday, 10 June, 2023",TCH-00529,Ram Sunder Singh,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,70,160cm,54.4Kg,97.5F,110/40MMHg
+"Sunday, 11 June, 2023",TCH-00531,Anita Srivastava,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,52,,,,
+"Monday, 12 June, 2023",TCH-00532,Lalbabu Singh,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,52,167cm,76,97.6F,130/70MMHg
+"Tuesday, 13 June, 2023",TCH-00533,Husain Ansari,Dr.Vinit Kumar Sinha,"MBBS, Ex Resident SKMCH","General Physician
+",86,,,,
+"Wednesday, 14 June, 2023",TCH-00404,RAJESHWAR MANJHI,Dr. Vijay Kumar,"MD,PhD","General Physician
+",55,157CM,66KG,97.4'F,140/70MMHG
+"Thursday, 15 June, 2023",TCH-00523,Shah Alam,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, Ex Resident SKMCH",ORTHO,52,,,,
+"Friday, 16 June, 2023",TCH-00535,Pramanand Kumar,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,23,161cm,52kg,98.0'f,120/76mmhg
+"Saturday, 17 June, 2023",TCH-00537,Nathuni Ram,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,60,163cm,47.5kg,97.2'f,80/60mmhg
+"Sunday, 18 June, 2023",TCH-00538,Champa Kumari,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,25,154cm,59kg,97.4'f,140/80mmhg
+"Monday, 19 June, 2023",TCH-00539,Malhar Devi,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,68,,,,
+"Tuesday, 20 June, 2023",TCH-00540,Ashok Kumar Verma,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,72,,,,
+"Wednesday, 21 June, 2023",TCH-00542,Aman Kumar,Dr. Vijay Kumar,"MD,PhD","General Physician
+",18,166cm,59kg,97.4F,120/80mmhg
+"Thursday, 22 June, 2023",TCH-00403,INDU DEVI,Dr. Vijay Kumar,"MD,PhD","General Physician
+",55,153cm,71kg,97.3'f,130/80mmhg
+"Friday, 23 June, 2023",TCH-00543,Shila Devi,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,50,,,,
+"Saturday, 24 June, 2023",TCH-00544,Tanveer Alam,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,33,174cm,71.4kg,97.5'f,108/70mmhg
+"Sunday, 25 June, 2023",TCH-00546,Mritunjay Gupta,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,45,161cm,61.7kg,97.1'f,106/60
+"Monday, 26 June, 2023",TCH-00547,Sitaram Singh,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,58,159cm,54kg,97.6'f,150/70mmhg
+"Tuesday, 27 June, 2023",TCH-00251,Kirti Narayan,Dr. Vijay Kumar,"MD,PhD","General Physician
+",59,170CM,70Kg,,
+"Wednesday, 28 June, 2023",TCH-00551,Bhagawan Babu Chaudhary,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,65,156cm,60kg,97.3'f,136/80
+"Thursday, 29 June, 2023",TCH-00552,Sita Devi,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,60,155cm,52kg,97.4'f,136/86mmhg
+"Friday, 30 June, 2023",TCH-00553,Vinod Kumar Pandy,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,54,166.5cm,82kg,,
+"Saturday, 1 July, 2023",TCH-00554,Radha Devi,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,40,,,,
+"Sunday, 2 July, 2023",TCH-00450,BHARAT RAI,Dr. Vijay Kumar,"MD,PhD","General Physician
+",38,162CM,64.7KG,,
+"Monday, 3 July, 2023",TCH-00485,Vikash Kumar,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,20,Cm,57kg,96.0'F,110/80
+"Tuesday, 4 July, 2023",TCH-00556,Subhash Kumar,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,30,169cm,69Kg,97.5F,100/58MMHg
+"Wednesday, 5 July, 2023",TCH-00557,Rajeev Kumar,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,28,167cm,70kg,,
+"Thursday, 6 July, 2023",TCH-00559,Reena Devi,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,40Yrs,157cm,88Kg,97.5F,130/80MMHg
+"Friday, 7 July, 2023",TCH-00407,KIRTI AZAD,Dr. Vijay Kumar,"MD,PhD","General Physician
+",3.5 YRS,,,,
+"Saturday, 8 July, 2023",TCH-00420,Arti Kumari,Dr. Vijay Kumar,"MBBS, FCGP
+","General Physician
+",16,151Cm,33Kg,96.3F,
+"Sunday, 9 July, 2023",TCH-00441,Shyam Sundar Prasad,Dr. Vijay Kumar,"MD,PhD","General Physician
+",42,163Cm,62Kg,97F,120/80MMHg
+"Monday, 10 July, 2023",TCH-00478,Raghunath Das,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,72,159CM,58KG,96.4F,130/70
+"Tuesday, 11 July, 2023",TCH-00560,Mehwish Naj,"Dr Saurabh Kumar,MBBS,MD(Neuro Psychiatric)","MBBS, MD, (Neuro Psychiatric), AIIMS, New Delhi","Consultant, Neuro Psychiatrist",16,160cm,40.5Kg,97.5F,98/50MMHg
+"Wednesday, 12 July, 2023",TCH-00561,Bittu Kumar,"Dr Saurabh Kumar,MBBS,MD(Neuro Psychiatric)","MBBS, MD, (Neuro Psychiatric), AIIMS, New Delhi","Consultant, Neuro Psychiatrist",21,,,,
+"Thursday, 13 July, 2023",TCH-00562,Rinku Kumari,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,40,157cm,53Kg,96.1F,120/80MMHg
+"Friday, 14 July, 2023",TCH-00563,Nagender Rai,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,70,152cm,42Kg,97.5F,92/60MMHg
+"Saturday, 15 July, 2023",TCH-00566,Naval Kishore Rai,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,48,,,,
+"Sunday, 16 July, 2023",TCH-00567,Lakinder Rai,"Dr Saurabh Kumar,MBBS,MD(Neuro Psychiatric)","MBBS, MD, (Neuro Psychiatric), AIIMS, New Delhi","Consultant, Neuro Psychiatrist",55,,,,
+"Monday, 17 July, 2023",TCH-00568,Kajal Kumari,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",25,,,,
+"Tuesday, 18 July, 2023",TCH-00569,Lalu Kumar,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",23,,,,
+"Wednesday, 19 July, 2023",TCH-00570,T MADHUSUDAN,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,36,,,,
+"Thursday, 20 July, 2023",TCH-00574,Basmati Devi,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,72,,,,160/90mmhg
+"Friday, 21 July, 2023",TCH-00578,ATUL KUMAR,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MD,PhD","General Physician
+",,,,,
+"Saturday, 22 July, 2023",TCH-00319,Birendra Rai,Dr. Vijay Kumar,"MD,PhD","General Physician
+",48,176 CM,79KG,97.4'F,110/70MMHg
+"Sunday, 23 July, 2023",TCH-00580,ANNU KUMARI,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,20,160CM,47KG,98.1F,110/70MMHg
+"Monday, 24 July, 2023",TCH-00297,MALTI SINHA,Dr.Vinit Kumar Sinha,"MD,PhD","General Physician
+",74,153CM,60kg,,
+"Tuesday, 25 July, 2023",TCH-00581,Urmila Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",52,168CM,64KG,96.7F,140/70MMHg
+"Wednesday, 26 July, 2023",TCH-00582,Ambika Kumari,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,22,153cm,49Kg,96.5F,140/80MMHg
+"Thursday, 27 July, 2023",TCH-00584,Raj Kumar,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,42,171cm,72Kg,,120/92MMHg
+"Friday, 28 July, 2023",TCH-00585,Anamika,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,20,167cm,56kg,97.3F,110/70MMHg
+"Saturday, 29 July, 2023",TCH-00587,SUDHIR KUMAR,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",14,,,,
+"Sunday, 30 July, 2023",TCH-00589,IJRAIL SAH,Dr.Vinit Kumar Sinha,"MBBS, Ex Resident SKMCH","General Physician
+",55,166CM,72KG,98%F,120/80MMHg
+"Monday, 31 July, 2023",TCH-00590,SANKET RAJ,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,20,,,,
+"Tuesday, 1 August, 2023",TCH-00449,ANITA DEVI,Dr.Vinit Kumar Sinha,"MD,PhD","General Physician
+",46,152CM,,,
+"Wednesday, 2 August, 2023",TCH-00586,Sanket Raj,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,20,,,,
+"Thursday, 3 August, 2023",TCH-00592,SHIKIL DEVI,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",60,150CM,46KG,97.3`F,110/70MMHg
+"Friday, 4 August, 2023",TCH-00593,SARITA DEVI,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",40,151CM,46KG,97.4`F,120/80MMHg
+"Saturday, 5 August, 2023",TCH-00594,RAGHUNATH SHARMA,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",60,,,,
+"Sunday, 6 August, 2023",TCH-00596,SILA DEVI,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",56,,,,
+"Monday, 7 August, 2023",TCH-00597,NILU DEVI,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",35,,,,
+"Tuesday, 8 August, 2023",TCH-00598,NIBHA KUMARI,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",21,,,,
+"Wednesday, 9 August, 2023",TCH-00599,Zeba Parvin,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",22,,,,
+"Thursday, 10 August, 2023",TCH-00600,MAMTA KUMARI,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",32,146CM,82KG,97`5F,110/90MMHg
+"Friday, 11 August, 2023",TCH-00601,SONI DEVI,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",30,150CM,54KG,97.6`F,120/80MMHg
+"Saturday, 12 August, 2023",TCH-00604,NAVEEN KUMAR,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",28,167CM,54KG,97.7`F,
+"Sunday, 13 August, 2023",TCH-00605,ABDULLAH,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,24,,,,
+"Monday, 14 August, 2023",TCH-00607,RINA DEVI,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,35,147CM,44KG,9702`F,110/76MMHg
+"Tuesday, 15 August, 2023",TCH-00608,RADHIKA DEVI,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,32,146CM,46KG,98.0`F,122/86MMHg
+"Wednesday, 16 August, 2023",TCH-00609,Sudama Devi,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,60,,,,
+"Thursday, 17 August, 2023",TCH-00611,Vidyanand Singh,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,28,162CM,57KG,97.2F,130/88MMHg
+"Friday, 18 August, 2023",TCH-00612,Rahul Ranjan Srivastava,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,50,,,,
+"Saturday, 19 August, 2023",TCH-00613,Ram Bharos Kr Yadav,Dr. Vijay Kumar,"MBBS, PG-DTM&H, Medicine","General Physician
+",25,,,,
+"Sunday, 20 August, 2023",TCH-00405,RAM JANAM PD YADAV,Dr. Vijay Kumar,"MD,PhD","General Physician
+",75,156CM,74KG,96.6F,130/70
+"Monday, 21 August, 2023",TCH-00471,Kajal Kumari,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,26,143cm,45kg,97.2'F,100/70
+"Tuesday, 22 August, 2023",TCH-00492,Haricharan Rai,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,50,154cm,54kg,97.7'f,104/70
+"Wednesday, 23 August, 2023",TCH-00614,Vinod Sah,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,50,,,,
+"Thursday, 24 August, 2023",TCH-00615,Dhiraj Kumar,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,16,,,,
+"Friday, 25 August, 2023",TCH-00617,Shivji Sah,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,31,,,,
+"Saturday, 26 August, 2023",TCH-00618,Ram Sakal Singh,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,70,,,,
+"Sunday, 27 August, 2023",TCH-00417,INDRAJIT BHAGAT,Dr. Vijay Kumar,"MBBS, MS ORTHO",ORTHO,45,162cm,72Kg,96.7F,120/80MMHg
+"Monday, 28 August, 2023",TCH-00418,BINA DEVI,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,40,151CM,70.8Kg,97.2F,110/70MMHg
+"Tuesday, 29 August, 2023",TCH-00461,Ranjana Devi,Dr. Vijay Kumar,"MD,PhD","General Physician
+",34,157cm,48KG,97.8F,110/80MMHg
+"Wednesday, 30 August, 2023",TCH-00432,Neelam Devi,Dr. Vijay Kumar,"MD,PhD","General Physician
+",45,145Cm,57Kg,96.5F,
+"Thursday, 31 August, 2023",TCH-00514,Anand Lal Rai,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",78,160cm,58.3kg,,
+"Friday, 1 September, 2023",TCH-00621,Pushpa Kumari,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,30,148CM,67Kg,97.1F,110/80MMHg
+"Saturday, 2 September, 2023",TCH-00622,Sneha Kumari,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,18,154CM,54.8Kg,97.9F,120/80MMHg
+"Sunday, 3 September, 2023",TCH-00623,Mandeshwar Rai,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,52,157CM,62Kg,97.3F,120/84MMHg
+"Monday, 4 September, 2023",TCH-00624,Anjali Kumari,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,21,,,,
+"Tuesday, 5 September, 2023",TCH-00625,Amodh Kumar,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,35,,,,
+"Wednesday, 6 September, 2023",TCH-00508,Manoj Rai,Dr.Vinit Kumar Sinha,"MBBS, Ex Resident SKMCH","General Physician
+",27,,,,
+"Thursday, 7 September, 2023",TCH-00626,JP Sinha,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",43,,,,
+"Friday, 8 September, 2023",TCH-00628,Madhu Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",35,,,,
+"Saturday, 9 September, 2023",TCH-00629,Kishmat Devi,Dr. V Kumar,MBBS,Urolo,48,,,,
+"Sunday, 10 September, 2023",TCH-00631,Sitaram Singh,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,70,,,,
+"Monday, 11 September, 2023",TCH-00368,VINOD SINGH,Dr. Vijay Kumar,"MD,PhD","General Physician
+",55,148 CM,,,
+"Tuesday, 12 September, 2023",TCH-00498,Sima Prabin,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",30,154cm,,,
+"Wednesday, 13 September, 2023",TCH-00632,Rita Devi,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, Ex Resident SKMCH",ORTHO,,,,,
+"Thursday, 14 September, 2023",TCH-00633,PRATIMA DEVI,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,42,,,,
+"Friday, 15 September, 2023",TCH-00634,KANCHAN KUMARI,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,26,,,,
+"Saturday, 16 September, 2023",TCH-00635,MANAS SAURABH,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,16,194CM,112Kg,,120/80MMHg
+"Sunday, 17 September, 2023",TCH-00636,Prashant Saurabh,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,49,,,,
+"Monday, 18 September, 2023",TCH-00511,Saimimum Nihsa,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",55,157cm,57Kg,97F,90/50MMHg
+"Tuesday, 19 September, 2023",TCH-00576,BAIDA KHATUN,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH","General Physician
+",49,149CM,75KG,97.8F,50/100MMHg
+"Wednesday, 20 September, 2023",TCH-00638,Khushboo Kumari,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,32,154CM,58kG,97.6f,120/80MMHg
+"Thursday, 21 September, 2023",TCH-00642,Shivaya Saurabh,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,17,191CM,92.6Kg,,
+"Friday, 22 September, 2023",TCH-00178,Bhushan  Passwan,Dr.Vinit Kumar Sinha,"MBBS,",Gen.Phy.,06,00,00,98 'F,00
+"Saturday, 23 September, 2023",TCH-00179,BHULIYA DEVI,Dr.Vinit Kumar Sinha,"MBBS, PG- DTM,&H ,MEDICINE",Gen.Phy.,06,00,00,97 'F,00
+"Sunday, 24 September, 2023",TCH-00275,SHAIL DEVI,"Dr. V.K. Vikas, MBBS, MD (Medicine)","MD,PhD","General Physician
+",60,149CM,56KG,97.9'F,140/80MMHG
+"Monday, 25 September, 2023",TCH-00317,Krishan Mohan Kumar,"Dr. V.K. Vikas, MBBS, MD (Medicine)","MBBS, MD","General Physician
+",26,161 cm,47 Kg,97.4F,100/78MMHG
+"Tuesday, 26 September, 2023",TCH-00500,Mina Devi,"Dr. V.K. Vikas, MBBS, MD (Medicine)","MBBS, MD","General Physician
+",45,150cm,66.6kg,98.4F,118/80MMHG
+"Wednesday, 27 September, 2023",TCH-00650,ABDUS SATTAR,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,85,,,97.8F,110/70MMHG
+"Thursday, 28 September, 2023",TCH-00541,Deepchand Ram,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,44,171CM,92.9Kg,,110/70MMHg
+"Friday, 29 September, 2023",TCH-00652,Bhola Singh,"Dr. V.K. Vikas, MBBS, MD (Medicine)","MBBS, MD",Cosultant Physician,65,153cm,49.7kg,96.8F,130/80MMHG
+"Saturday, 30 September, 2023",TCH-00655,MUKESH KUAMR,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,20,161CM,58KG,,130/90
+"Sunday, 1 October, 2023",TCH-00656,Nathni Thakur,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,65,,,,
+"Monday, 2 October, 2023",TCH-00658,JAGESHWAR RAY,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,61,173CM,72KG,,140/70MMHG
+"Tuesday, 3 October, 2023",TCH-00659,Kalawati Devi,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,47,149CM,60KG,,130/70MMHg
+"Wednesday, 4 October, 2023",TCH-00662,Siyaram Sharma,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,60,,,,160/80MMHg
+"Thursday, 5 October, 2023",TCH-00663,Dev Raj,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,7,,122cm,,
+"Friday, 6 October, 2023",TCH-00664,Shalini Kumari,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,15,157cm,41Kg,,90/70MMHg
+"Saturday, 7 October, 2023",TCH-00665,Sunita Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,45,,,,
+"Sunday, 8 October, 2023",TCH-00666,Hajra Khatoon,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,70yrs,,,,
+"Monday, 9 October, 2023",TCH-00667,BIPIN KUMAR,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,20YRS,161CM,51KG,97.6F,110/70MMHG
+"Tuesday, 10 October, 2023",TCH-00668,SALINI,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,29YRS,155CM,48KG,96.8F,100/70MMHG
+"Wednesday, 11 October, 2023",TCH-00669,Khairoon Nisha,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,30yrs,150cm,64kg,,130/70
+"Thursday, 12 October, 2023",TCH-00670,Babita Kumari,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, Ex Resident SKMCH",Cosultant Physician,38,,,,
+"Friday, 13 October, 2023",TCH-00499,Ravikant Patel,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",30,168cm,59.8Kg,99.0'f,110/70MMHg
+"Saturday, 14 October, 2023",TCH-00671,Ramesh Kumar,Dr.Vinit Kumar Sinha,"MBBS, MD",Cosultant Physician,82yrs,163cm,70kg,,164/96mmhg
+"Sunday, 15 October, 2023",TCH-00674,Joginder Mahto,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",85yrs,165cm,51.6kg,,130/90mmhg
+"Monday, 16 October, 2023",TCH-00675,Rita Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",28yrs,155cm,42kg,,100/70mmhg
+"Tuesday, 17 October, 2023",TCH-00676,SARASWATI DEVI,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",45YRS.,154CM,50.6KG,,110/70MMHG
+"Wednesday, 18 October, 2023",TCH-00455,Munasari Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",52,140cm,49.3kg,,120/80MMHG
+"Thursday, 19 October, 2023",TCH-00583,Aniket Kumar,Dr.Vinit Kumar Sinha,"MBBS, Ex Resident SKMCH","General Physician
+",18,170Cm,78.1Kg,,120/80MMHg
+"Friday, 20 October, 2023",TCH-00654,CHUNU KUMAR,"Dr. B.S.Kumar, MD (Pedia), S.R. SKMCH","MBBS, MD",Cosultant Physician,14,,,,
+"Saturday, 21 October, 2023",TCH-00677,Rajmati Devi,Dr.Vinit Kumar Sinha,"MD,PhD","General Physician
+",60yrs,,,,
+"Sunday, 22 October, 2023",TCH-00678,Vijay Kr. Gupta,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",72yrs.,159cm,67kg,,150/90MMHG
+"Monday, 23 October, 2023",TCH-00681,Gyan Gaurav,"Dr. B.S.Kumar, MD (Pedia), S.R. SKMCH",,,02 Yrs,,,,
+"Tuesday, 24 October, 2023",TCH-00682,Uday Thakur,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,29,,,,
+"Wednesday, 25 October, 2023",TCH-00683,BIPIN KUMAR,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,52,,,,
+"Thursday, 26 October, 2023",TCH-00685,Kameshwar Paswan,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",45,161CM,63Kg,,140/80MMHg
+"Friday, 27 October, 2023",TCH-00686,Shalini,Dr. Vijay Kumar,,,30,158cm,61kg,,
+"Saturday, 28 October, 2023",TCH-00687,Bandana Sinha,Dr. Vijay Kumar,MBBS,,42yrs,153cm,51kg,,110/70MMHG
+"Sunday, 29 October, 2023",TCH-00688,Bhulan Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,60yrs,145cm,58.7kg,,130/90MMHG
+"Monday, 30 October, 2023",TCH-00690,SANJU DEVI,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,35YRS,158CM,40KG,,110/70
+"Tuesday, 31 October, 2023",TCH-00375,Raja Kumar,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,19,173 cm,46 Kg,,
+"Wednesday, 1 November, 2023",TCH-00573,POONAM DEVI,Dr.Vinit Kumar Sinha,"MBBS, Ex Resident SKMCH","General Physician
+",38,150CM,59KG,97.5F,110/76MMHg
+"Thursday, 2 November, 2023",TCH-00591,SUDHIR KUMAR,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,14,,,,
+"Friday, 3 November, 2023",TCH-00620,Rangila Kumari,"Dr. Tauseef Kibria, MS, General Surgery","MBBS, Ex Resident SKMCH",General Surgery,21,156cm,39Kg,,
+"Saturday, 4 November, 2023",TCH-00630,Ranjit Pandit,"Dr. Tauseef Kibria, MS, General Surgery","MBBS, Ex Resident SKMCH","General Physician
+",33,,,,
+"Sunday, 5 November, 2023",TCH-00691,Sangeeta Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",40yrs,142cm,46kg,,
+"Monday, 6 November, 2023",TCH-00692,Mukul Kumar,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",32,,,,
+"Tuesday, 7 November, 2023",TCH-00693,Rajesh Kumar Singh,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",18,,,,
+"Wednesday, 8 November, 2023",TCH-00694,Mamta Kumari,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",18,,,,
+"Thursday, 9 November, 2023",TCH-00695,Ajmeri Khatoon,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",14,,,,
+"Friday, 10 November, 2023",TCH-00698,Shatrudhan Sah,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",65,,,,
+"Saturday, 11 November, 2023",TCH-00699,JYOTIKA KUMARI,"Dr. Tauseef Kibria, MS, General Surgery",MS,General Surgery,32yrs,,,,
+"Sunday, 12 November, 2023",TCH-00700,Vijay Kumar,"Dr. Tauseef Kibria, MS, General Surgery",MS,General Surgery,62yrs,,,,
+"Monday, 13 November, 2023",TCH-00265,Manju Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MD,PhD","General Physician
+",38,162 cm,61 Kg,,
+"Tuesday, 14 November, 2023",TCH-00701,BHOLA ANSARI,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,60,,,,
+"Wednesday, 15 November, 2023",TCH-00703,Tara Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,55yrs,147cm,62kg,,
+"Thursday, 16 November, 2023",TCH-00704,SAROJ RANI,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,43,,,,
+"Friday, 17 November, 2023",TCH-00706,BINDESHWAR SINGH,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, Ex Resident SKMCH",ORTHO,62,,,,
+"Saturday, 18 November, 2023",TCH-00707,MINA DEVI,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",55YRS,,,,
+"Sunday, 19 November, 2023",TCH-00708,NAGENDRA RAM,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",70YRS,,,,
+"Monday, 20 November, 2023",TCH-00709,AJIT KUMAR,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",36,,,,
+"Tuesday, 21 November, 2023",TCH-00277,MD. NEZAM,Dr. Vijay Kumar,"MD,PhD","General Physician
+",43,169 cm,68kg,,
+"Wednesday, 22 November, 2023",TCH-00710,Bholi Bai,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,70YRS,,,,
+"Thursday, 23 November, 2023",TCH-00711,Bipat Rai,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,65,,,,
+"Friday, 24 November, 2023",TCH-00712,Radha Kunwar,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,45,,,,
+"Saturday, 25 November, 2023",TCH-00713,Mina Singh,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,60yrs,160cm,58kg,,120/70mmhg
+"Sunday, 26 November, 2023",TCH-00714,Rampyari,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,50YRS,,,,
+"Monday, 27 November, 2023",TCH-00716,Sarita Devi,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,45,,,,
+"Tuesday, 28 November, 2023",TCH-00717,Chandani Kumari,Dr. V Kumar,MBBS,Urolo,7,,,,
+"Wednesday, 29 November, 2023",TCH-00721,Daulat Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",45,151cm,43Kg,97.2F,110/76MMHg
+"Thursday, 30 November, 2023",TCH-00722,Sonu Kumar,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",21,145cm,40Kg,,110/70MMHg
+"Friday, 1 December, 2023",TCH-00723,Pooja Kumari,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",26,158cm,73Kg,95F,160/90MMHg
+"Saturday, 2 December, 2023",TCH-00564,Manju Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, Ex Resident SKMCH",Cosultant Physician,50,142cm,54kg,97F,72/56MMHg
+"Sunday, 3 December, 2023",TCH-00726,SHEO KUMAR SINGH,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,66,158cm,70Kg,,140/80MMHg
+"Monday, 4 December, 2023",TCH-00728,INDRA DEVI,"Dr. Tauseef Kibria, MS, General Surgery",MS,General Surgery,40,,,,
+"Tuesday, 5 December, 2023",TCH-00705,RAJESHWAR PRASAD,"Dr. Tauseef Kibria, MS, General Surgery","MBBS, Ex Resident SKMCH",General Surgery,75yrs,,,,
+"Wednesday, 6 December, 2023",TCH-00729,BIGAN SINGH,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",40,,,,
+"Thursday, 7 December, 2023",TCH-00730,BINDESHWAR RAY,"Dr. Tauseef Kibria, MS, General Surgery",MS,General Surgery,38,164CM,74KG,95.7F,110/70MMHg
+"Friday, 8 December, 2023",TCH-00731,MUKESH KUMAR,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, Ex Resident SKMCH",ORTHO,27,,,,
+"Saturday, 9 December, 2023",TCH-00732,Govind Yadav,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,51yrs,,,,
+"Sunday, 10 December, 2023",TCH-00733,Parmila Devi,Dr. Ajay Kumar,"MBBS, PG-DTM&H, Medicine","General Physician
+",32,,,,
+"Monday, 11 December, 2023",TCH-00228,SUNILA DEVI,"Dr. B.K.""Vikas"", MD (Medicine)","MD,PhD","General Physician
+",50,141cm,55kg,97.8F,130/80MMHG
+"Tuesday, 12 December, 2023",TCH-00738,Yatharth Bhardawj,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,20yrs,,,,
+"Wednesday, 13 December, 2023",TCH-00739,Inderdeo Sahni,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,80yrs,158.5cm,44.1kg,,150/90MMHG
+"Thursday, 14 December, 2023",TCH-00740,SAURAV KUMAR,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,17YRS,,,,
+"Friday, 15 December, 2023",TCH-00741,Mithla  Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,45yrs,,,,
+"Saturday, 16 December, 2023",TCH-00641,Kamini Kumari,Dr.Vinit Kumar Sinha,"MBBS, Ex Resident SKMCH","General Physician
+",30,147CM,,,
+"Sunday, 17 December, 2023",TCH-00742,Usha Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",30Yrs,,,,
+"Monday, 18 December, 2023",TCH-00744,Mintu Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",45yrs,147cm,67kg,,130/90MMHG
+"Tuesday, 19 December, 2023",TCH-00649,Kajal Kumari,Dr.Vinit Kumar Sinha,"MBBS, MD",Cosultant Physician,23,151CM,42Kg,96.4F,100/80MMHg
+"Wednesday, 20 December, 2023",TCH-00745,LALPARI DEVI,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",56YRS,150CM,49KG,97.0'F,220/110MMHG
+"Thursday, 21 December, 2023",TCH-00746,GANESH PD. SINGH,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,62,,,,
+"Friday, 22 December, 2023",TCH-00747,VIJAY SHARMA,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,36,,,,
+"Saturday, 23 December, 2023",TCH-00345,Prabhunath Singh,Dr.Vinit Kumar Sinha,"MD,PhD","General Physician
+",75,,55 Kg,97.1'F,104/70
+"Sunday, 24 December, 2023",TCH-00748,Sabra Khatoon,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",40yrs,,,,
+"Monday, 25 December, 2023",TCH-00762,LALITA DEVI,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",35YRS,158CM,58KG,97.0'F,110/80MMHG
+"Tuesday, 26 December, 2023",TCH-00515,Urimila Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",45,154cm,88kg,,
+"Wednesday, 27 December, 2023",TCH-00648,Lavnish Kumar,Dr.Vinit Kumar Sinha,MBBS,"General Physician
+",06,00,00,96.4,00
+"Thursday, 28 December, 2023",TCH-00750,Ritesh Kumar,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",19,,,,
+"Friday, 29 December, 2023",TCH-00752,Indu Devi,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,55,,,,
+"Saturday, 30 December, 2023",TCH-00753,Geetanjali,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",26,,,,
+"Sunday, 31 December, 2023",TCH-00754,Bimla Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",60yrs,,,,
+"Monday, 1 January, 2024",TCH-00247,Raja Kumar,"Dr. B.K.""Vikas"", MD (Medicine)","MD,PhD","General Physician
+",14,163 cm,47.3kg,,
+"Tuesday, 2 January, 2024",TCH-00510,Urmila Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, Ex Resident SKMCH","General Physician
+",60,,,,
+"Wednesday, 3 January, 2024",TCH-00756,Sahida Begum,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,34yrs,144cm,48kg,97.1'F,110/70MMHG
+"Thursday, 4 January, 2024",TCH-00757,Shambhu Chandra Patel,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,58,,,,
+"Friday, 5 January, 2024",TCH-00758,Binod Rai,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,50yrs,,,,
+"Saturday, 6 January, 2024",TCH-00760,Satyajit Satya,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,32,,,,
+"Sunday, 7 January, 2024",TCH-00761,Chandeshwar Sahni,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,35yrs,,,,
+"Monday, 8 January, 2024",TCH-00487,Kunal Kumar,Dr.Vinit Kumar Sinha,"MBBS, Ex Resident SKMCH","General Physician
+",17,173cm,58kg,97.9'F,130/90
+"Tuesday, 9 January, 2024",TCH-00763,Babulal Yadav,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",60,158cm,57Kg,97.6F,160/80MMHg
+"Wednesday, 10 January, 2024",TCH-00765,Karena Afreen,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",,,,,
+"Thursday, 11 January, 2024",TCH-00766,Dolly Pravin,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",30yrs,154CM,58KG,96.0'F,120/80MMHG
+"Friday, 12 January, 2024",TCH-00767,BIPIN KUMAR,"Dr. Tauseef Kibria, MS, General Surgery",MS,General Surgery,44,,,,
+"Saturday, 13 January, 2024",TCH-00639,Dhanmanti Devi,Dr.Vinit Kumar Sinha,"MBBS, Ex Resident SKMCH","General Physician
+",60,,,,
+"Sunday, 14 January, 2024",TCH-00661,Chandan Kumar,Dr.Vinit Kumar Sinha,"MBBS, Ex Resident SKMCH",Cosultant Physician,26,167cm,55Kg,110/80MMHg,
+"Monday, 15 January, 2024",TCH-00768,Kajal Kumari,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,17,,,,
+"Tuesday, 16 January, 2024",TCH-00769,Kameshwar Ray,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",60yrs,,,,
+"Wednesday, 17 January, 2024",TCH-00770,Sobha Kumari,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",28yrs,156CM,72KG,95.4'F,110/80MMHG
+"Thursday, 18 January, 2024",TCH-00771,Mina Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",35yrs,153cm,53kg,,140/80MMHG
+"Friday, 19 January, 2024",TCH-00772,Sindhu Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,28,158cm,50kg,,
+"Saturday, 20 January, 2024",TCH-00774,BHUSHAN MAHTO,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",46YRS,,,,
+"Sunday, 21 January, 2024",TCH-00775,Malti Ray,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,35yrs,,,,
+"Monday, 22 January, 2024",TCH-00777,RIMIT KUMAR,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,6,,,,
+"Tuesday, 23 January, 2024",TCH-00536,Deepnarayan Singh,Dr.Vinit Kumar Sinha,"MBBS, Ex Resident SKMCH","General Physician
+",50,158cm,60.2kg,,
+"Wednesday, 24 January, 2024",TCH-00778,Raj Deo Bhagat,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",65,,,,
+"Thursday, 25 January, 2024",TCH-00779,Sima Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",38,152cm,70.3Kg,,120/90MMHg
+"Friday, 26 January, 2024",TCH-00780,Bibha Devi,Dr.Vinit Kumar Sinha,"MD,PhD","General Physician
+",27,153.5cm,61.8kg,99.0'F,110/70MMHG
+"Saturday, 27 January, 2024",TCH-00180,Rajveer Singh,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, FCGP","Gen, Phy",6,"4'1""",18 KG,98 'F,
+"Sunday, 28 January, 2024",TCH-00781,NIRMALA KUMARI,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,52YRS,154CM,59KG,94.3'F,140/86MMHG
+"Monday, 29 January, 2024",TCH-00782,RANJU DEVI,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,30,61.3Kg,146.5CM,94F,120/90MMHg
+"Tuesday, 30 January, 2024",TCH-00783,BIPIN KUMAR,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,41YRS,,,,
+"Wednesday, 31 January, 2024",TCH-00784,Nilu Kumari,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,18yrs,157cm,69kg,90.0'F,130/90MMHG
+"Thursday, 1 February, 2024",TCH-00785,Rina Vishwakarma,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,36,,,,
+"Friday, 2 February, 2024",TCH-00786,Juhi Kumari,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,28,,,,
+"Saturday, 3 February, 2024",TCH-00787,Khuman Patel,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,60yrs,,,,
+"Sunday, 4 February, 2024",TCH-00702,ASHOK PRASAD,Dr.Vinit Kumar Sinha,"MD,PhD","General Physician
+",47,160CM,73Kg,95.5F,120/80MMHg
+"Monday, 5 February, 2024",TCH-00715,GANESH KUMAR,Dr.Vinit Kumar Sinha,"MBBS, Ex Resident SKMCH","General Physician
+",26YRS,170CM,58.8KG,,
+"Tuesday, 6 February, 2024",TCH-00788,Poonam Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",30yrs,,,,
+"Wednesday, 7 February, 2024",TCH-00789,Rajeev Kumar,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",32,,,,
+"Thursday, 8 February, 2024",TCH-00791,Dukhi Majhi,Dr. Vijay Kumar,"MBBS, PG-DTM&H, Medicine","General Physician
+",20YRS,,,,
+"Friday, 9 February, 2024",TCH-00790,Kumari Nisha,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",29,156CM,71.8Kg,,
+"Saturday, 10 February, 2024",TCH-00792,NAGINA DEVI,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,65YRS,,,,
+"Sunday, 11 February, 2024",TCH-00793,Mohd.Jannat Sah,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,55,160.5cm,59Kg,97.5F,140/92MMHg
+"Monday, 12 February, 2024",TCH-00794,ASHOK PASWAN,"Dr. Tauseef Kibria, MS, General Surgery","MBBS, Ex Resident SKMCH",General Surgery,48,165CM,63Kg,,140/100MMHg
+"Tuesday, 13 February, 2024",TCH-00673,Sahda Khatoon,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, PG-DTM&H, Medicine","General Physician
+",43yrs,148cm,53.4kg,,130/80MMHg
+"Wednesday, 14 February, 2024",TCH-00795,Ajit Kumar,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,13,,,,
+"Thursday, 15 February, 2024",TCH-00797,LAXMAN YADAV,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,60,,,,
+"Friday, 16 February, 2024",TCH-00451,SHREERAM PANDIT,Dr.Vinit Kumar Sinha,"MD,PhD","General Physician
+",40YRS,167CM,69KG,96.7F,100/74MMHG
+"Saturday, 17 February, 2024",TCH-00463,Shiv Chandra Rai,Dr.Vinit Kumar Sinha,"MD,PhD","General Physician
+",60,,,,
+"Sunday, 18 February, 2024",TCH-00550,Harendra Rai,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH","General Physician
+",35,161cm,71kg,96.5'f,
+"Monday, 19 February, 2024",TCH-00577,SAURAV KUMAR,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MD,PhD","General Physician
+",22YRS,,,,
+"Tuesday, 20 February, 2024",TCH-00735,Champa Devi,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MD",Cosultant Physician,70yrs,,,,
+"Wednesday, 21 February, 2024",TCH-00798,Neha Kumari,Dr.Vinit Kumar Sinha,"MBBS, MD",Cosultant Physician,13yrs,,,,
+"Thursday, 22 February, 2024",TCH-00799,Surendra Kumar,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,38yrs,,,,
+"Friday, 23 February, 2024",TCH-00800,Lalbabu Singh,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",42yrs,165cm,51kg,97.5'F,140/90MMHG
+"Saturday, 24 February, 2024",TCH-00801,ISHAN,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",1.5 MONTHS,,,,
+"Sunday, 25 February, 2024",TCH-00802,Gauri Kumari,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",27,,,,
+"Monday, 26 February, 2024",TCH-00803,UDAY KUMAR,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",18,,,,
+"Tuesday, 27 February, 2024",TCH-00804,Surajkala Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",45,,,,
+"Wednesday, 28 February, 2024",TCH-00805,MD KALAM,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,48,,,,
+"Thursday, 29 February, 2024",TCH-00423,BHAGWAN DAS MAHTO,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MS ORTHO",ORTHO,50,163CM,69KG,96.2'F,180/100MMHG
+"Friday, 1 March, 2024",TCH-00737,Saraswati Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,60yrs,,,,
+"Saturday, 2 March, 2024",TCH-00808,Sita Kumari,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,23yrs,162cm,78kg,95.9'F,120/76MMHG
+"Sunday, 3 March, 2024",TCH-00809,Abdul Manar Sah,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,55yrs,,,,
+"Monday, 4 March, 2024",TCH-00755,UPENDER SINGH,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, PG-DTM&H, Medicine","General Physician
+",65yrs,163cm,67Kg,,
+"Tuesday, 5 March, 2024",TCH-00811,KUMAR AMIT,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,42yrs,,,,
+"Wednesday, 6 March, 2024",TCH-00812,Vikas Kumar Paswan,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,22yrs,,,,
+"Thursday, 7 March, 2024",TCH-00813,Niraj Kumar,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,20yrs,,,,
+"Friday, 8 March, 2024",TCH-00814,Shiv Shankar Pandey,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,46yrs,,,,
+"Saturday, 9 March, 2024",TCH-00815,Pushpa Kumari,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,35,152cm,62Kg,95F,140/92MMHg
+"Sunday, 10 March, 2024",TCH-00816,Sunil Singh,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,40,,,,
+"Monday, 11 March, 2024",TCH-00719,Nagendra Singh,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",82yrs,168cm,60Kg,,
+"Tuesday, 12 March, 2024",TCH-00817,Badri Singh,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",80,,,,
+"Wednesday, 13 March, 2024",TCH-00002,TCH-00002,Dr Ajay Kumar,,,30,5,60kg,97F,120/70
+"Thursday, 14 March, 2024",TCH-00819,UMA DEVI,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",60yrs,154cm,62kg,91.5'F,110/60MMHG
+"Friday, 15 March, 2024",TCH-00820,ABHISHEK KUMAR,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",30YRS,172CM,67KG,97.2'F,140/100MMHG
+"Saturday, 16 March, 2024",TCH-00822,UPENDRA PRASAAD SINGH,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",49YRS,,,,
+"Sunday, 17 March, 2024",TCH-00823,Ridham Mali,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",7yrs,,,,
+"Monday, 18 March, 2024",TCH-00416,Sangita Devi,Dr.Vinit Kumar Sinha,"MBBS, Ex Resident SKMCH","General Physician
+",43,160cm,72kg,,
+"Tuesday, 19 March, 2024",TCH-00826,Manoj Ray,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",26yrs,,,,
+"Wednesday, 20 March, 2024",TCH-00828,NOORESH KHATOON,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,38,,,,
+"Thursday, 21 March, 2024",TCH-00829,CHANDAN KUMAR,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,25,,,,
+"Friday, 22 March, 2024",TCH-00831,Rajesh Kumar Gupta,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",26yrs,,,,
+"Saturday, 23 March, 2024",TCH-00189,Meera Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MD,PhD","General Physician
+",55,"5'4""",57KG,96.6F,
+"Sunday, 24 March, 2024",TCH-00832,Nitesh Kumar,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,26yrs,,,,
+"Monday, 25 March, 2024",TCH-00833,Sundil Kumar,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,35yrs,,,,
+"Tuesday, 26 March, 2024",TCH-00834,Manish Kumar Thakur,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,21yrs,,,,
+"Wednesday, 27 March, 2024",TCH-00836,Mukul Sriwastav,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,55yrs,,,,
+"Thursday, 28 March, 2024",TCH-00837,Uday Kumar,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",,20yrs,,,,
+"Friday, 29 March, 2024",TCH-00838,Saniya Khatoon,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,14,,,,
+"Saturday, 30 March, 2024",TCH-00312,Parvati Devi,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH",MBBS,MS Ortho,62,149 cm,53 Kg,98.2 'F,120/80 MMHg
+"Sunday, 31 March, 2024",TCH-00385,Guddu Kumar,Dr.Vinit Kumar Sinha,"MD,PhD","General Physician
+",19,161 cm,45KG,98.3 'F,
+"Monday, 1 April, 2024",TCH-00595,SHILA DEVI,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MD","General Physician
+",50,,,,
+"Tuesday, 2 April, 2024",TCH-00727,TARKESHWARI DEVI,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MD",Cosultant Physician,65YRS,,,,
+"Wednesday, 3 April, 2024",TCH-00840,Binda Prasaad Singh,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",62yrs,,,,
+"Thursday, 4 April, 2024",TCH-00841,Rajan Kumar,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",24,,,,
+"Friday, 5 April, 2024",TCH-00843,Manoj Kumar Singh,"Dr. Ajay Kumar, MD,PhD","MD,PhD","General Physician
+",52,,,,
+"Saturday, 6 April, 2024",TCH-00844,Ashma Khatoon,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,40,,,,
+"Sunday, 7 April, 2024",TCH-00845,Sahnaz Khatoon,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,10,,,,
+"Monday, 8 April, 2024",TCH-00846,DINESH RAI,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,40,,,,
+"Tuesday, 9 April, 2024",TCH-00847,Rita Devi,Dr. V Kumar,MBBS,Urolo,,,,,
+"Wednesday, 10 April, 2024",TCH-00324,Pratibha Kumari,Dr. Vijay Kumar,"MD,PhD","General Physician
+",41,150 cm,57kg,0,0
+"Thursday, 11 April, 2024",TCH-00680,Manish Kumar,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, PG-DTM&H, Medicine","General Physician
+",21,173CM,55.6Kg,,
+"Friday, 12 April, 2024",TCH-00005,Amrit Kumar,Dr Ajay Kumar,NA,NA,30,5,60Kg,97,120/70
+"Saturday, 13 April, 2024",TCH-00602,NIRMALA DEVI,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, PG-DTM&H, Medicine","General Physician
+",35,158CM,,,
+"Sunday, 14 April, 2024",TCH-00849,Sunaina Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,65,,,,
+"Monday, 15 April, 2024",TCH-00850,MD. ARIF,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,30,,,,
+"Tuesday, 16 April, 2024",TCH-00851,Jamuna Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,75,,,,
+"Wednesday, 17 April, 2024",TCH-00481,Kisundeo Ram,Dr. Vijay Kumar,"MBBS, MD",Cosultant Physician,60,158cm,46Kg,,
+"Thursday, 18 April, 2024",TCH-00852,Isha Mohammad,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",52,,,,
+"Friday, 19 April, 2024",TCH-00854,Gita Devi,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,35,,,,
+"Saturday, 20 April, 2024",TCH-00855,Kisuni Sah,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,65,,,,
+"Sunday, 21 April, 2024",TCH-00555,Lalita Devi,"Dr. Anjubi Gauri, MD. Gynecology","MBBS, Ex Resident SKMCH",Urolo,40,145cm,45kg,97.1F,120/80MMHg
+"Monday, 22 April, 2024",TCH-00857,Poonam Devi,"Dr. Anjubi Gauri, MD. Gynecology","MD, GYNECOLOGY",,24,,,,
+"Tuesday, 23 April, 2024",TCH-00858,Goli Kumari,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,27,,,,
+"Wednesday, 24 April, 2024",TCH-00859,Soni Pandey,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,35,,,,
+"Thursday, 25 April, 2024",TCH-00491,Taiyab Ali,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",65,167cm,78.5KG,91'F,146/90MMHG
+"Friday, 26 April, 2024",TCH-00862,Subhangi Kumari,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",5,,,,
+"Saturday, 27 April, 2024",TCH-00864,NASIMA KHATOON,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",35,,,,
+"Sunday, 28 April, 2024",TCH-00869,Radha Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,40,,,,
+"Monday, 29 April, 2024",TCH-00724,NAMITA KUMARI,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",42,,,,
+"Tuesday, 30 April, 2024",TCH-00873,Rishu Raj,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,8,130CM,24Kg,,
+"Wednesday, 1 May, 2024",TCH-00874,Aditya Kumar,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,6,,,,
+"Thursday, 2 May, 2024",TCH-00875,Devkali Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",62,,,,
+"Friday, 3 May, 2024",TCH-00876,Rajpati Devi,"Dr. Tauseef Kibria, MS, General Surgery",MS,General Surgery,50,,,,
+"Saturday, 4 May, 2024",TCH-00877,Aamir Khan,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,23,,,,
+"Sunday, 5 May, 2024",TCH-00878,Pradeep Gupta,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,25,,,,
+"Monday, 6 May, 2024",TCH-00879,ALOK KUMAR,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,23,,,,
+"Tuesday, 7 May, 2024",TCH-00880,Subham Kumar,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",8,,,,
+"Wednesday, 8 May, 2024",TCH-00884,Bharat Kumar,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,32,,,,
+"Thursday, 9 May, 2024",TCH-00885,Kundan Kumar,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,22,,,,
+"Friday, 10 May, 2024",TCH-00202,BAIDHNATH SHARMA,"Dr. B.K.""Vikas"", MD (Medicine)","MD, PhD
+","General Physician
+",55,166 cm,55 Kg,98.5 'F,
+"Saturday, 11 May, 2024",TCH-00881,Gayatri Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,60,,,,
+"Sunday, 12 May, 2024",TCH-00882,Musafir Bhagat,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,72,,,,
+"Monday, 13 May, 2024",TCH-00886,Pramila Prasad,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,65,,,,
+"Tuesday, 14 May, 2024",TCH-00887,Krishna Nand Prasad,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,,,,,
+"Wednesday, 15 May, 2024",TCH-00888,Mamta Kumari,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,40,,,,
+"Thursday, 16 May, 2024",TCH-00889,Devendra Singh,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,70,159cm,46Kg,95.1F,180/100MMHg
+"Friday, 17 May, 2024",TCH-00653,GURIYA DEVI,Dr.Vinit Kumar Sinha,MBBS,Cosultant Physician,35,144CM,49kg,97.6f,
+"Saturday, 18 May, 2024",TCH-00892,Sujeet Kumar,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",24,167cm,57kg,98.0'f,120/80mmhg
+"Sunday, 19 May, 2024",TCH-00894,Md.Nabbizan,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",75,173cm,57kg,96.2'f,130/80mmhg
+"Monday, 20 May, 2024",TCH-00897,Tanya Kumari,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, PG-DTM&H, Medicine","General Physician
+",26,,,,
+"Tuesday, 21 May, 2024",TCH-00226,Mrs Anju Singh,Dr.Vinit Kumar Sinha,"MD,PhD","General Physician
+",55,163,,,
+"Wednesday, 22 May, 2024",TCH-00397,RAJEEV KUMAR,Dr.Vinit Kumar Sinha,"MD,PhD","General Physician
+",32,168,64KG,,
+"Thursday, 23 May, 2024",TCH-00868,Raghvendra Kr Singh,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, PG-DTM&H, Medicine","General Physician
+",42,,,,
+"Friday, 24 May, 2024",TCH-00895,Ram Naresh Rai,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",55,153CM,81Kg,97.2F,150/80MMHg
+"Saturday, 25 May, 2024",TCH-00898,Urmila Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",60,149.5CM,54Kg,97.5F,160/80MMHg
+"Sunday, 26 May, 2024",TCH-00899,ANJUM AARA,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",59,154CM,40KG,98.2F,90/60MMHg
+"Monday, 27 May, 2024",TCH-00900,Md. Raza Ali,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,58,,,,
+"Tuesday, 28 May, 2024",TCH-00901,Tanveer Ahmed,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,57,,,,
+"Wednesday, 29 May, 2024",TCH-P-0171,NAGWA ZARIN,Dr.Vinit Kumar Sinha,"MD, PhD","General Physician
+",45YRS,149CM,64Kg,95F,110/60MMHg
+"Thursday, 30 May, 2024",TCH-00773,Safiquen Begum,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",60yrs,,,,
+"Friday, 31 May, 2024",TCH-00902,Vibha Kumari,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",25,137CM,28Kg,97.8F,110/80MMHg
+"Saturday, 1 June, 2024",TCH-00718,Shyam Sundar Paswan,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, PG-DTM&H, Medicine","General Physician
+",58yrs,161cm,63Kg,95F,130/80MMHG
+"Sunday, 2 June, 2024",TCH-00903,Usif,Dr. Vinay Kumar,MBBS,Urolo,22,,,,
+"Monday, 3 June, 2024",TCH-00904,Gagandev Thakur,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,66,156CM,43Kg,96F,180/90MMHg
+"Tuesday, 4 June, 2024",TCH-00905,Madan Singh,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,58,165CM,37Kg,100.8F,110/70MMHg
+"Wednesday, 5 June, 2024",TCH-00906,Gaurav Kumar,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,22,170CM,61Kg,95F,120/70MMHg
+"Thursday, 6 June, 2024",TCH-00907,Randhir Sahni,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,22,164cm,48Kg,97F,90/50MMHg
+"Friday, 7 June, 2024",TCH-00908,Birender Kr Singh,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,45,165CM,81Kg,95.7F,180/100MMHg
+"Saturday, 8 June, 2024",TCH-00321,Rekha Devi,Dr.Vinit Kumar Sinha,"MD,PhD","General Physician
+",35,158 cm,77kG,97.0 'F,120/80MMHg
+"Sunday, 9 June, 2024",TCH-00603,DROPTI KUMARI,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",21,158CM,50KG,97F,100/60MMHg
+"Monday, 10 June, 2024",TCH-00807,Pooja Kumari,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",24yrs,,,,
+"Tuesday, 11 June, 2024",TCH-00909,Manish Kumar,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",18,158CM,45Kg,96.9F,100/70MMHg
+"Wednesday, 12 June, 2024",TCH-00910,Ratnesh Kumar,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",31,168cm,81Kg,97.1F,130/90MMHg
+"Thursday, 13 June, 2024",TCH-00911,Samar Kumar,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",7,113CM,18Kg,,
+"Friday, 14 June, 2024",TCH-00912,Dashrath Jha,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",72,151cm,59Kg,,160/80MMHg
+"Saturday, 15 June, 2024",TCH-00914,RAM KUMAR THAKUR,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",58,166CM,75Kg,97.3F,180/90MMHg
+"Sunday, 16 June, 2024",TCH-00915,Anita Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",45,,,,
+"Monday, 17 June, 2024",TCH-00276,HIRALAL PASWAN,"Dr. B.K.""Vikas"", MD (Medicine)","MD,PhD","General Physician
+",65,,,,
+"Tuesday, 18 June, 2024",TCH-00818,Laxman Ray,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, PG-DTM&H, Medicine","General Physician
+",48yrs,158.5cm,79Kg,96.9F,100/80MMHg
+"Wednesday, 19 June, 2024",TCH-00916,Shailkumari Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,80,142CM,42Kg,97.4F,140/80MMHg
+"Thursday, 20 June, 2024",TCH-00917,Indu Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,55,152cm,68Kg,95.9F,110/70MMHg
+"Friday, 21 June, 2024",TCH-00920,Upkar Kumar,"Dr. B.K.""Vikas"", MD (Medicine)","MD,PhD","General Physician
+",39,169cm,90Kg,96.8F,130/90MMHg
+"Saturday, 22 June, 2024",TCH-00921,Rinku Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,30,151.5cm,41Kg,97.1F,110/80MMHg
+"Sunday, 23 June, 2024",TCH-00923,Jyoti Kumari,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,18,,,,
+"Monday, 24 June, 2024",TCH-00924,Ayush Kumar,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,02,,,,
+"Tuesday, 25 June, 2024",TCH-00751,BASKIT BHAGAT,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, PG-DTM&H, Medicine","General Physician
+",72,161CM,58Kg,98F,130/70MMHg
+"Wednesday, 26 June, 2024",TCH-00925,Parmila Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,35,153cm,61Kg,97.4F,124/85MMHg
+"Thursday, 27 June, 2024",TCH-00861,Sujita Devi,Dr.Vinit Kumar Sinha,"MD, GYNECOLOGY","General Physician
+",33,,,,
+"Friday, 28 June, 2024",TCH-00931,Khudaiya Khatoon,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",70,,,,
+"Saturday, 29 June, 2024",TCH-00935,Manchit Sharma,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",70,167cm,48kg,95'f,130/70mmhg
+"Sunday, 30 June, 2024",TCH-00936,Lal Pari Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",65,148Cm,41kg,96.3'f,120/70mmhg
+"Monday, 1 July, 2024",TCH-00938,Tuntun Ray,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",59,169cm,87Kg,95.9F,150/90MMHg
+"Tuesday, 2 July, 2024",TCH-00684,VIBHA KUMARI,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,40YRS,,,,
+"Wednesday, 3 July, 2024",TCH-00806,Raja Kumar,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",26,169cm,69Kg,95.7F,130/90MMHg
+"Thursday, 4 July, 2024",TCH-00939,Nageshwar Rai,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, PG-DTM&H, Medicine","General Physician
+",55,169cm,84Kg,96.2F,120/70MMHg
+"Friday, 5 July, 2024",TCH-00941,Renu Devi,"Dr. Anjubi Gauri, MD. Gynecology","MD, GYNECOLOGY",,26,155Cm,39kg,97.2'f,110/70mmhg
+"Saturday, 6 July, 2024",TCH-00942,JAICHANDRA RAI,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,45,,,,
+"Sunday, 7 July, 2024",TCH-00943,SANJEET KUMAR,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,30,,,,
+"Monday, 8 July, 2024",TCH-00944,BISHAL KUMAR,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",20,,,,
+"Tuesday, 9 July, 2024",TCH-00945,Shiv Kumari Sharma,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",46,,,,
+"Wednesday, 10 July, 2024",TCH-00946,Ratneshwar Thakur,"Dr. Ajay Kumar, MD,PhD","MD,PhD","General Physician
+",63,,,,
+"Thursday, 11 July, 2024",TCH-00949,Suman Kumari,Dr. Vinay Kumar,MBBS,Urolo,22,,,,
+"Friday, 12 July, 2024",TCH-P-0169,ABHISHEK KUMAR,Dr.Vinit Kumar Sinha,"MD ,PhD","General Physician
+",19,"5'6""",49 KG,98.6 'F,
+"Saturday, 13 July, 2024",TCH-00689,Pramod Singh,Dr. Vinay Kumar,"MBBS, MD",Cosultant Physician,49yrs,172cm,76.9kg,95F,130/70MMHg
+"Sunday, 14 July, 2024",TCH-00743,Sonia Devi,Dr. Vinay Kumar,"MBBS, PG-DTM&H, Medicine","General Physician
+",45,154.5CM,56Kg,96.5F,110/70MMHg
+"Monday, 15 July, 2024",TCH-00947,Suresh Kumar,Dr. Vinay Kumar,MBBS,Urolo,31,,,,
+"Tuesday, 16 July, 2024",TCH-00308,Hiralal Rai,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, Ex Resident SKMCH","General Physician
+",62,,49Kg,97.2 'F,
+"Wednesday, 17 July, 2024",TCH-00409,SUKHDEV RAI,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, PG-DTM&H, Medicine","General Physician
+",62,162cm,46Kg,97.6'f,
+"Thursday, 18 July, 2024",TCH-00486,Rina Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, Ex Resident SKMCH","General Physician
+",40,156cm,52Kg,97.8'F,
+"Friday, 19 July, 2024",TCH-00258,Sunita Devi,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,50,150 cm,71.9 Kg,-,-
+"Saturday, 20 July, 2024",TCH-00290,RAJENDRA PRASAD,Dr. Vijay Kumar,"MD,PhD","General Physician
+",70,160cm,69KG,,
+"Sunday, 21 July, 2024",TCH-00362,Reena Devi,Dr. Vijay Kumar,"MD,PhD","General Physician
+",40,145 cm,48 Kg,,
+"Monday, 22 July, 2024",TCH-00466,Vishwanath Mahto,Dr. Vijay Kumar,"MD,PhD","General Physician
+",83Yrs,158cm,51kg,,
+"Tuesday, 23 July, 2024",TCH-00825,Nisha Kumari,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",26yrs,,,,
+"Wednesday, 24 July, 2024",TCH-00863,JIBCHI DEVI,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, PG-DTM&H, Medicine","General Physician
+",38,159 CM,65 KG,96.8F,100/70MMHg
+"Thursday, 25 July, 2024",TCH-00951,RAHUL KUMAR,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,29,164CM,65KG,96.6F,130/80MMHg
+"Friday, 26 July, 2024",TCH-00952,Dhanu Kr,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,12,,,,
+"Saturday, 27 July, 2024",TCH-00953,SUKHARI THAKUR,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,65,,,,
+"Sunday, 28 July, 2024",TCH-00331,Ram Bhawan Singh,Dr.Vinit Kumar Sinha,"MD,PhD","General Physician
+",77,170 CM,73Kg,,
+"Monday, 29 July, 2024",TCH-00764,Ramchandra Das,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, PG-DTM&H, Medicine","General Physician
+",60,,,,
+"Tuesday, 30 July, 2024",TCH-00954,Aasma Khatoon,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,70,153cm,59Kg,96.6F,140/80MMHg
+"Wednesday, 31 July, 2024",TCH-00958,Phulo Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,45,,,,
+"Thursday, 1 August, 2024",TCH-00233,RAJU MAHTO,"Dr. B.K.""Vikas"", MD (Medicine)","MD,PhD","General Physician
+",74,161 CM,51kg,96.3'f,140/60mmhg
+"Friday, 2 August, 2024",TCH-00558,Anvi Kumari,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, Ex Resident SKMCH",Cosultant Physician,2Yrs,88cm,12kg,97.8'f,
+"Saturday, 3 August, 2024",TCH-00640,LALAN KUMAR,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, Ex Resident SKMCH",Cosultant Physician,28,167.5cm,62Kg,96.3'f,140/100mmhg
+"Sunday, 4 August, 2024",TCH-00657,Renu Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, Ex Resident SKMCH",Cosultant Physician,41,146CM,44.5Kg,95.5f,110/70mmhg
+"Monday, 5 August, 2024",TCH-00959,Manoj Kumar,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,50,156 CM,46,96.6F,140/70Mmhg
+"Tuesday, 6 August, 2024",TCH-00960,Chaturi Mahto,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,39,163cm,59kg,98.0'f,
+"Wednesday, 7 August, 2024",TCH-00961,Kewla Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, PG-DTM&H, Medicine","General Physician
+",55,159.5 cm,72 Kg,97.2F,140/90
+"Thursday, 8 August, 2024",TCH-00470,Parmila Davi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",52,150cm,74kg,96.9F,118/70mmhg
+"Friday, 9 August, 2024",TCH-00548,Laxmi Kumari,"Dr. Anjubi Gauri, MD. Gynecology","MBBS, Ex Resident SKMCH","General Physician
+",43,,,,
+"Saturday, 10 August, 2024",TCH-00796,Rajwati Devi,Dr.Vinit Kumar Sinha,"MBBS, Ex Resident SKMCH",Cosultant Physician,80,,,,
+"Sunday, 11 August, 2024",TCH-00866,Kameshwar Prasad Yadav,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",55,170 Cm,63,96.9F,140/70
+"Monday, 12 August, 2024",TCH-00962,Chulahi Das,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",50,158 CM,42,97.4F,110/70
+"Tuesday, 13 August, 2024",TCH-00963,Md.Faiyaj,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",34,159.5 cm,72,97.2F,140/90
+"Wednesday, 14 August, 2024",TCH-00964,Dilkush Kumar,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",05,,,,
+"Thursday, 15 August, 2024",TCH-00966,Asbun Khatoon,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",57,159.9cm,60kg,95.8'f,140/80mmhg
+"Friday, 16 August, 2024",TCH-00967,Girjan Ray,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",60,164 Cm,65kg,97.5F,150/70
+"Saturday, 17 August, 2024",TCH-00067,Ritu Singh,Dr Ajay Kumar,,,30,,,,
+"Sunday, 18 August, 2024",TCH-00203,Kumkum Kumari,Dr.Vinit Kumar Sinha,"MBBS, Ex Resident SKMCH","General Physician
+",35,147cm,57kg,97.4'f,100/80mmhg
+"Monday, 19 August, 2024",TCH-00411,Bibha Kumari,Dr.Vinit Kumar Sinha,"MBBS, Ex Resident SKMCH",Cosultant Physician,30,149 Cm,55Kg,97.3F,100/70mmhg
+"Tuesday, 20 August, 2024",TCH-00870,Maheshwari Devi,Dr.Vinit Kumar Sinha,"MBBS, MD",Cosultant Physician,70,149cm,46kg,97.0'f,140/60mmhg
+"Wednesday, 21 August, 2024",TCH-00970,Ramji Prasad,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",65,,,,
+"Thursday, 22 August, 2024",TCH-00971,Gujar Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",52,,,,
+"Friday, 23 August, 2024",TCH-00504,Shivchandri Devi,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH","General Physician
+",65,146cm,53Kg,97.2F,160/60Mmhg
+"Saturday, 24 August, 2024",TCH-00972,Subodh Sah,Dr. Vijay Kumar,MBBS,,55,,,,
+"Sunday, 25 August, 2024",TCH-00973,Sarita Devi,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,22,,,,
+"Monday, 26 August, 2024",TCH-00974,Santosh Kumar,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,23,,,,
+"Tuesday, 27 August, 2024",TCH-00975,Sumit Kumar,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,24,,,,
+"Wednesday, 28 August, 2024",TCH-00390,Naveen Kumar,"Dr. B.K.""Vikas"", MD (Medicine)","MD,PhD","General Physician
+",33,157,40kg,,
+"Thursday, 29 August, 2024",TCH-00412,Ram Kumar Bhagat,"Dr. B.K.""Vikas"", MD (Medicine)","MD,PhD","General Physician
+",61YRS,172cm,70Kg,97F,120/80Mmhg
+"Friday, 30 August, 2024",TCH-00976,Ajbi Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,85,160Cm,45Kg,97.7F,130/90Mmhg
+"Saturday, 31 August, 2024",TCH-00977,Sita Kumari,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,45,150,61.5Kg,97.8F,130/90Mmhg
+"Sunday, 1 September, 2024",TCH-00978,BASANT KUMAR,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,43Yrs,,,,
+"Monday, 2 September, 2024",TCH-00979,Gajendra Das,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,50,,,,
+"Tuesday, 3 September, 2024",TCH-00588,Ram Dev Singh,Dr.Vinit Kumar Sinha,"MBBS, Ex Resident SKMCH","General Physician
+",68,157CM,66Kg,97F,130/80Mmhg
+"Wednesday, 4 September, 2024",TCH-00759,Ganita Devi,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MD",Cosultant Physician,48,160cm,61Kg,96.3F,140/90MMHg
+"Thursday, 5 September, 2024",TCH-00867,Lalita Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",55,158CM,56.8Kg,98F,130/70MMHg
+"Friday, 6 September, 2024",TCH-00980,Poonam Devi,Dr.Vinit Kumar Sinha,"MBBS, Ex Resident SKMCH","General Physician
+",45,150CM,51Kg,97.3F,100/60MMHg
+"Saturday, 7 September, 2024",TCH-00981,Nawal Rai,Dr.Vinit Kumar Sinha,"MBBS, Ex Resident SKMCH","General Physician
+",48yrs,165Cm,55Kg,97.0F,110/70MMHg
+"Sunday, 8 September, 2024",TCH-00982,Raj Kishore,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",21,154Cm,47Kg,97.2F,130/60MMhg
+"Monday, 9 September, 2024",TCH-00983,Harihar Ray,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",45Yrs,164CM,55.7Kg,97F,110/70MMhg
+"Tuesday, 10 September, 2024",TCH-00988,Balinder Ray,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",82Yrs,156CM,47Kg,97.6F,130/90MMHg
+"Wednesday, 11 September, 2024",TCH-00989,Tanu Kumari,"Dr. Anjubi Gauri, MD. Gynecology","MBBS, PG-DTM&H, Medicine","General Physician
+",19Yrs,,,,
+"Thursday, 12 September, 2024",TCH-00488,Momina Khatoon,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, PG-DTM&H, Medicine","General Physician
+",72yrs,,,97.9F,100/60
+"Friday, 13 September, 2024",TCH-00503,Anish Ansari,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, Ex Resident SKMCH","General Physician
+",30,174cm,,,
+"Saturday, 14 September, 2024",TCH-00530,Kusum Sinha,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, Ex Resident SKMCH",Cosultant Physician,75,,,,
+"Sunday, 15 September, 2024",TCH-00579,ANKIT KUMAR,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MD,PhD","General Physician
+",27YRS,,,,
+"Monday, 16 September, 2024",TCH-00991,Md.Akbar,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,26Yrs,173Cm,59Kg,97.2F,98/50MMHg
+"Tuesday, 17 September, 2024",TCH-00992,Yashwanth Kumar,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,20Yrs,176Cm,55,96.5F,100/60MMHg
+"Wednesday, 18 September, 2024",TCH-00994,Radha Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,49Year,146CM,68Kg,97.4F,140/80MMHg
+"Thursday, 19 September, 2024",TCH-00995,Sunil Kumar,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,33Year,164CM,89KG,96.7F,140/90
+"Friday, 20 September, 2024",TCH-00314,Sakila Khatoon,"Dr. B.K.""Vikas"", MD (Medicine)","MD,PhD","General Physician
+",38,148 cm,46KG,97.2'f,114/80MMHg
+"Saturday, 21 September, 2024",TCH-00335,Rasila Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MD,PhD","General Physician
+",30,147 cm,57kG,97.2f,100/70MMHg
+"Sunday, 22 September, 2024",TCH-00860,Pinki Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, Ex Resident SKMCH",Cosultant Physician,32,145CM,39Kg,97.5F,100/60MMHg
+"Monday, 23 September, 2024",TCH-00865,Parmila Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, PG-DTM&H, Medicine","General Physician
+",45,165CM,69Kg,97.6F,110/70MMHg
+"Tuesday, 24 September, 2024",TCH-00997,Rajeshwar Singh,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,67Yrs,173CM,72Kg,97F,140/80MMHg
+"Wednesday, 25 September, 2024",TCH-00998,Lilawati Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,65Year,163CM,75Kg,97.3F,120/70MMHg
+"Thursday, 26 September, 2024",TCH-00999,Saraj Ansari,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,63Year,,,,
+"Friday, 27 September, 2024",TCH-01000,Bisuni Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,55Year,,,,
+"Saturday, 28 September, 2024",TCH-01001,Jhaliya Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,55,,,,
+"Sunday, 29 September, 2024",TCH-P-0119,MAHAJAN DEVI,"Dr. B.K.""Vikas"", MD (Medicine)","MD, PhD","General Physician
+",63,155CM,47Kg,96.5F,120/50
+"Monday, 30 September, 2024",TCH-00328,Sakli Devi,Dr.Vinit Kumar Sinha,"MD,PhD","General Physician
+",40,160 cm,70Kg,96.6F,110/80MMHg
+"Tuesday, 1 October, 2024",TCH-00565,Pari Kumari,Dr.Vinit Kumar Sinha,"MBBS, Ex Resident SKMCH","General Physician
+",7,,,,
+"Wednesday, 2 October, 2024",TCH-00672,JASIMA KHATOON,Dr.Vinit Kumar Sinha,"MBBS, MD",Cosultant Physician,40yrs,155CM,67KG,96.8F,110/80MMHg
+"Thursday, 3 October, 2024",TCH-01003,Saimun Khatoon,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",56Year,146CM,38Kg,96.4F,118/68MMHg
+"Friday, 4 October, 2024",TCH-01005,Kumari Nidhi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",20Year,154Cm,45Kg,97.3F,100/50MMHg
+"Saturday, 5 October, 2024",TCH-01006,Siyawati Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",50Year,148CM,42Kg,97.8F,130/80MMHg
+"Sunday, 6 October, 2024",TCH-01007,Mina Sinha,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",68Year,,,,
+"Monday, 7 October, 2024",TCH-01008,Palak Singh,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",16year,,,,
+"Tuesday, 8 October, 2024",TCH-01009,Santosh Kumar,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",32Year,,,,
+"Wednesday, 9 October, 2024",TCH-01010,Anand Kumar Gupta,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",4Year,,,,
+"Thursday, 10 October, 2024",TCH-00307,Parmila Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",60YRS,153 cm,62Kg,97.4F,140/80MMHg
+"Friday, 11 October, 2024",TCH-00433,Sarojni Devi,Dr.Vinit Kumar Sinha,"MD,PhD","General Physician
+",50,149Cm,42Kg,97.6F,118/70MMHg
+"Saturday, 12 October, 2024",TCH-01011,Sudha Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",65Year,148CM,41Kg,97.2F,100/68MMHg
+"Sunday, 13 October, 2024",TCH-01013,Nagendra Rai,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,47Year,,,,
+"Monday, 14 October, 2024",TCH-01014,Roshan Khatoon,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",47Year,151CM,59.5Kg,97.2F,140/90MMHg
+"Tuesday, 15 October, 2024",TCH-01015,Veena Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",60Year,143CM,76Kg,97.4F,160/80MMHg
+"Wednesday, 16 October, 2024",TCH-01016,Zohara Khatoon,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",55Year,147CM,52Kg,97.2F,150/80MMhg
+"Thursday, 17 October, 2024",TCH-00520,Rambha Devi,Dr.Vinit Kumar Sinha,"MD,PhD","General Physician
+",45,148CM,59Kg,97.3F,130/74MMHg
+"Friday, 18 October, 2024",TCH-00606,GITA DEVI,Dr.Vinit Kumar Sinha,"MBBS, Ex Resident SKMCH","General Physician
+",40,160CM,60Kg,97.4F,110/70MMHg
+"Saturday, 19 October, 2024",TCH-00660,Gita Devi,Dr.Vinit Kumar Sinha,"MBBS, Ex Resident SKMCH",Cosultant Physician,55,159CM,74kG,98.4F,140/70MMHg
+"Sunday, 20 October, 2024",TCH-00736,Sardha Devi,Dr.Vinit Kumar Sinha,"MBBS, MD",Cosultant Physician,40yrs,144cm,44Kg,99.3F,
+"Monday, 21 October, 2024",TCH-01017,Sunita Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",35,154cm,36Kg,98.3F,110/60MMHg
+"Tuesday, 22 October, 2024",TCH-01018,Usha Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",45,156cm,60Kg,98.9F,120/80MMHg
+"Wednesday, 23 October, 2024",TCH-01019,Payal Kumari,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",28,167cm,49Kg,98.7F,110/70MMHg
+"Thursday, 24 October, 2024",TCH-01020,Ranjit Ray,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",36Year,157.5CM,50Kg,,110/80MMHg
+"Friday, 25 October, 2024",TCH-01021,Sail Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",55Year,141.5Cm,54Kg,98.4F,130/70MMHg
+"Saturday, 26 October, 2024",TCH-01022,Ajesh Kumar,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",18,,,,
+"Sunday, 27 October, 2024",TCH-00330,Jateshwar Rai,"Dr. B.K.""Vikas"", MD (Medicine)","MD,PhD","General Physician
+",60,158 cm,59Kg,98F,100/60MMhg
+"Monday, 28 October, 2024",TCH-00361,Mamta Kumari,"Dr. B.K.""Vikas"", MD (Medicine)","MD,PhD","General Physician
+",32,151 cm,61Kg,98.4F,110/70MMHg
+"Tuesday, 29 October, 2024",TCH-00927,Mithilesh Paswan,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,22,172Cm,56Kg,98.3F,100/70MMHg
+"Wednesday, 30 October, 2024",TCH-01024,Shashi Prabha Sinha,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,74Year,,,,
+"Thursday, 31 October, 2024",TCH-00459,Sobha Kumari,Dr.Vinit Kumar Sinha,"MD,PhD","General Physician
+",30YRS,161CM,47Kg,98F,120/80MMHg
+"Friday, 1 November, 2024",TCH-00616,Zafiur Rehman,Dr.Vinit Kumar Sinha,"MBBS, Ex Resident SKMCH",ORTHO,67,171CM,86Kg,99.7F,160/90MMHg
+"Saturday, 2 November, 2024",TCH-00619,Madhumala Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",42,147cm,67Kg,99F,130/86MMHg
+"Sunday, 3 November, 2024",TCH-00637,Noorjahan Khatoon,Dr.Vinit Kumar Sinha,"MBBS, Ex Resident SKMCH","General Physician
+",45,148CM,48Kg,98.4F,110/60MMHg
+"Monday, 4 November, 2024",TCH-00697,Prem Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",60,152cm,73KG,98F,150/80MMHg
+"Tuesday, 5 November, 2024",TCH-00839,Subodh Kumar,Dr.Vinit Kumar Sinha,"MBBS, MD",Cosultant Physician,44,155.5cm,56Kg,96.3F,120/80MMHg
+"Wednesday, 6 November, 2024",TCH-00871,Ramkali Devi,Dr.Vinit Kumar Sinha,"MBBS, MD",Cosultant Physician,65,,69Kg,97F,144/98MMHg
+"Thursday, 7 November, 2024",TCH-00890,Shail Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,45,,45kG,98F,110/80
+"Friday, 8 November, 2024",TCH-00896,Binda Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",60,151Cm,47Kg,98F,150/100MMHg
+"Saturday, 9 November, 2024",TCH-00918,Sabita Devi,Dr.Vinit Kumar Sinha,"MBBS, MD",Cosultant Physician,30,157cm,54Kg,98F,130/80MMHg
+"Sunday, 10 November, 2024",TCH-01023,Shaivsati Devi,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MD","General Physician
+",60F,148Cm,67Cm,98.3F,120/70MMHg
+"Monday, 11 November, 2024",TCH-01025,Durga Devi,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, PG-DTM&H, Medicine","General Physician
+",30Year,162CM,66Kg,97.6F,140/80MMHg
+"Tuesday, 12 November, 2024",TCH-01026,Binda Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",65,,,,
+"Wednesday, 13 November, 2024",TCH-01027,Rupesh Jha,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,33Year,171Cm,69Kg,98F,140/100MMHg
+"Thursday, 14 November, 2024",TCH-01029,Ratnesh Kumar,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,30Year,168CM,85KG,99F,141/96MMHg
+"Friday, 15 November, 2024",TCH-00298,BELA DEVI,"Dr. B.K.""Vikas"", MD (Medicine)","MD,PhD","General Physician
+",45,144CM,42Kg,98.2F,124/80MMHg
+"Saturday, 16 November, 2024",TCH-00891,Annu Kumari,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,26,,,,
+"Sunday, 17 November, 2024",TCH-00933,Laxman Thakur,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, PG-DTM&H, Medicine","General Physician
+",90Year,150.5cm,39Kg,95.5F,150/70MMHg
+"Monday, 18 November, 2024",TCH-01030,Priyanshi Kumari,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,05 Months,,,,
+"Tuesday, 19 November, 2024",TCH-01031,Phultora Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,70Year,149CM,40Kg,98.7F,144/74MMHg
+"Wednesday, 20 November, 2024",TCH-00932,Sushila Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, PG-DTM&H, Medicine","General Physician
+",35,147cm,55Kg,98.3F,126/80MMHg
+"Thursday, 21 November, 2024",TCH-01032,Arun Kumar,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,55Year,,,,
+"Friday, 22 November, 2024",TCH-01033,Ujjwal Kashyap,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,20Year,169CM,51Kg,98.3F,112/60MMHg
+"Saturday, 23 November, 2024",TCH-01034,Rohit Kumar,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,19Year,170Cm,50Kg,98.3F,130/60MMHg
+"Sunday, 24 November, 2024",TCH-01036,Ram Sanehi Chaudhary,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,70,163CM,52Kg,98.4F,150/80MMHg
+"Monday, 25 November, 2024",TCH-00280,Anita Devi,Dr.Vinit Kumar Sinha,"MD,PhD","General Physician
+",27,150 cm,57Kg,98.3F,90/60MMHg
+"Tuesday, 26 November, 2024",TCH-00651,ANIL KUMAR,Dr.Vinit Kumar Sinha,"MBBS, MD",Cosultant Physician,72,161CM,63kG,99.1,114/60MMHg
+"Wednesday, 27 November, 2024",TCH-00919,Ramdarash Sahni,Dr.Vinit Kumar Sinha,"MBBS, MD",Cosultant Physician,70,153CM,40kG,97.2F,110/80mmhG
+"Thursday, 28 November, 2024",TCH-00930,Suresh Ram,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",50,159cm,64kG,98.5f,140/90MMHg
+"Friday, 29 November, 2024",TCH-00934,Kunkun Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",55,154cm,40Kg,98.5F,140/60MMHg
+"Saturday, 30 November, 2024",TCH-01037,Ramlal Bhagat,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",75,170CM,61Kg,98.5F,110/60MMHg
+"Sunday, 1 December, 2024",TCH-01039,Laxmi Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",40,152CM,55Kg,98.3F,120/80MMHg
+"Monday, 2 December, 2024",TCH-01041,Rekha Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",37,142CM,27Kg,98.5F,90/60MMHg
+"Tuesday, 3 December, 2024",TCH-01043,Daulat Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",20y,153cm,66kg,98.3'f,116/70mmhg
+"Wednesday, 4 December, 2024",TCH-01044,Soman Rai,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,55,,,,
+"Thursday, 5 December, 2024",TCH-01045,Rajeev Arya,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,28,,,,
+"Friday, 6 December, 2024",TCH-01046,Pushpa Mishra,Dr. Vijay Kumar,"MBBS, MS ORTHO",ORTHO,50,149CM,87Kg,98F,130/80MMHg
+"Saturday, 7 December, 2024",TCH-01047,Ganesh Rai,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,56Year,165CM,72KG,98F,140/90MMHg
+"Sunday, 8 December, 2024",TCH-01048,Poonam Singh,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,45Year,148CM,72Kg,98F,120/80MMHg
+"Monday, 9 December, 2024",TCH-01049,Dasrath Bhagat,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",35Year,,,,
+"Tuesday, 10 December, 2024",TCH-00940,Ram Parvesh Sahni,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",46,163cm,74Kg,98F,120/80MMHg
+"Wednesday, 11 December, 2024",TCH-01050,ASHARFI SAHNI,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",80,,,,
+"Thursday, 12 December, 2024",TCH-01051,Prakash Kumar Jha,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,33Year,,,,
+"Friday, 13 December, 2024",TCH-00821,MINA DEVI,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, PG-DTM&H, Medicine","General Physician
+",66YRS,151CM,47Kg,99F,110/50MMHg
+"Saturday, 14 December, 2024",TCH-01052,Md.Janbaz,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,25Year,165CM,57Kg,99F,110/70MMHg
+"Sunday, 15 December, 2024",TCH-00679,Sanjay Rai,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",40,151cm,60Kg,98F,110/70MMHg
+"Monday, 16 December, 2024",TCH-00696,Khushboo Kumari,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",26,163CM,55Kg,98.7F,124/80MMHg
+"Tuesday, 17 December, 2024",TCH-00893,Pradeep Pandit,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",56,168cm,72Kg,98.5F,90/50MMHg
+"Wednesday, 18 December, 2024",TCH-00969,Shrey Raj,Dr. Vijay Kumar,"MBBS, Ex Resident SKMCH",,18,161Cm,58Kg,99F,116/90MMHg
+"Thursday, 19 December, 2024",TCH-01053,Sunita Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",55Year,,,,
+"Friday, 20 December, 2024",TCH-01054,Niraj Kumar,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",20Year,165CM,65Kg,99F,140/96MMHg
+"Saturday, 21 December, 2024",TCH-01055,Sarita Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",40Year,145CM,46Kg,98F,150/94MMHg
+"Sunday, 22 December, 2024",TCH-01056,Sita Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine",.,70Year,,,,
+"Monday, 23 December, 2024",TCH-01057,Dharam Singh,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",28Year,148CM,48Kg,99F,110/80MMHg
+"Tuesday, 24 December, 2024",TCH-01058,Santosh Kumar,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",33Year,178CM,69KG,98.3F,120/80MMHg
+"Wednesday, 25 December, 2024",TCH-00421,Sashi Kumar,"Dr. B.K.""Vikas"", MD (Medicine)","MD,PhD","General Physician
+",25,168Cm,61kg,98.0'f,120/80mmhg
+"Thursday, 26 December, 2024",TCH-00922,Usha Verma,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,70,143.5CM,58Kg,95.6F,150/80MMHg
+"Friday, 27 December, 2024",TCH-00957,KYAMUDDIN,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,37,162CM,56Kg,99F,90/60MMHg
+"Saturday, 28 December, 2024",TCH-01059,Niraj Kumar,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,19Year,167CM,46Kg,98F,110/80MMHg
+"Sunday, 29 December, 2024",TCH-01060,Pundeo Yadav,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,65Year,154CM,63Kg,98.4F,130/80MMHg
+"Monday, 30 December, 2024",TCH-01061,Priyanka Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,30Year,157CM,51Kg,96.4F,120/70MMHg
+"Tuesday, 31 December, 2024",TCH-01062,Parmila Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,65Year,148CM,42KG,98F,140/70MMHg
+"Wednesday, 1 January, 2025",TCH-01064,Shashi Bhushan Shukla,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,53Y,173cm,96kg,98.0'f,144/70mmhg
+"Thursday, 2 January, 2025",TCH-01065,Ramprit Singh,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,65Y,153cm,64kg,98.0'f,120/80mmhg
+"Friday, 3 January, 2025",TCH-01066,Ravi Shankar Singh,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,26,167cm,69Kg,99F,120/80MMHg
+"Saturday, 4 January, 2025",TCH-00399,PARMILA DEVI,Dr.Vinit Kumar Sinha,"MD,PhD","General Physician
+",54,150CM,58Kg,97.5F,110/70MMHg
+"Sunday, 5 January, 2025",TCH-00835,Ram Shevak Thakur,Dr.Vinit Kumar Sinha,"MBBS, MD",Cosultant Physician,75yrs,158cm,62Kg,98'F,160/100MMHg
+"Monday, 6 January, 2025",TCH-01067,Sita Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",26Year,151Cm,51Kg,98.6'F,128/86MMHg
+"Tuesday, 7 January, 2025",TCH-01068,Asha Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",44Year,,,,
+"Wednesday, 8 January, 2025",TCH-01070,Vijay Kumar,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",48Year,164CM,67Kg,98.2F,164/108MMHg
+"Thursday, 9 January, 2025",TCH-00323,Deepak Kumar,Dr.Vinit Kumar Sinha,"MD,PhD","General Physician
+",30,167Cm,69Kg,98.3F,120/80MMHg
+"Friday, 10 January, 2025",TCH-00830,RINA DEVI,Dr.Vinit Kumar Sinha,"MD,PhD","General Physician
+",35,147cm,47kg,98.4'f,90/60mmhg
+"Saturday, 11 January, 2025",TCH-00948,Ramesh Kumar,Dr. Vinay Kumar,MBBS,Urolo,80,160cm,65Kg,,
+"Sunday, 12 January, 2025",TCH-00985,Anshu Kumari,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",17Yrs,149Cm,43Kg,98F,110/70MMHg
+"Monday, 13 January, 2025",TCH-01071,Mala Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",34Y,157cm,47kg,,120/80mmhg
+"Tuesday, 14 January, 2025",TCH-01072,Rajesh  Kumar,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",28Y,162cm,52kg,,
+"Wednesday, 15 January, 2025",TCH-01073,Ranjana Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",83Y,143cm,45kg,98.1'f,110/70mmhg
+"Thursday, 16 January, 2025",TCH-01074,Nitu Kumari,"Dr. Anjubi Gauri, MD. Gynecology","MD, GYNECOLOGY",,23Y,156cm,58kg,99.0'f,120/50mmhg
+"Friday, 17 January, 2025",TCH-01075,Surendra Rai,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",41Y,166cm,62kg,98.4'f,110/70mmhg
+"Saturday, 18 January, 2025",TCH-01076,Gita Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",50Y,158cm,57kg,97.5'f,144/80mmhg
+"Sunday, 19 January, 2025",TCH-01077,Madina Khatoon,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",22Y,141cm,44kg,98.2'f,120/60mmhg
+"Monday, 20 January, 2025",TCH-01078,Rajkumari Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",65Y,157cm,50kg,98.9'f,170/96mmhg
+"Tuesday, 21 January, 2025",TCH-01079,Indrashan Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",65Y,154cm,56kg,96.7'f,150/90mmhg
+"Wednesday, 22 January, 2025",TCH-01080,Roshani Kumari,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",14Y,148cm,35kg,98.7'f,
+"Thursday, 23 January, 2025",TCH-00301,DR  S K SINGH,Dr.Vinit Kumar Sinha,"MD,PhD","General Physician
+",80,172CM,72Kg,95.5F,140/80MMHg
+"Friday, 24 January, 2025",TCH-00571,Mehroom Nisha,Dr.Vinit Kumar Sinha,"MBBS, Ex Resident SKMCH",Cosultant Physician,80,146CM,59Kg,96.6F,120/78MMHg
+"Saturday, 25 January, 2025",TCH-00734,Bachhi Devi,Dr.Vinit Kumar Sinha,"MBBS, MD",Cosultant Physician,61Year,153CM,52Kg,99.2F,140/70MMHg
+"Sunday, 26 January, 2025",TCH-00776,Jhagru Ray,Dr.Vinit Kumar Sinha,"MBBS, MD",Cosultant Physician,65Year,158CM,40Kg,98F,100/60MMHg
+"Monday, 27 January, 2025",TCH-00810,Kusheshwar Singh,Dr.Vinit Kumar Sinha,"MBBS, MD",Cosultant Physician,41Year,171cm,68KG,97F,110/70MMHg
+"Tuesday, 28 January, 2025",TCH-00929,Parmanand Kumar,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",23,161cm,55Kg,98.2F,130/60MMHg
+"Wednesday, 29 January, 2025",TCH-01063,Nageshwar Rai,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,65Year,,,,
+"Thursday, 30 January, 2025",TCH-01081,Bhupnarayan Ray,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",66Year,165CM,72Kg,96F,110/80MMHg
+"Friday, 31 January, 2025",TCH-01082,Anguri Khatoon,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",60Year,157CM,78Kg,97.9F,130/80MMHg
+"Saturday, 1 February, 2025",TCH-01083,Reshma Bai,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",22Year,152CM,40Kg,98.7F,100/70MMHg
+"Sunday, 2 February, 2025",TCH-01084,Virendra Ram,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",47Year,163,58Kg,97.2F,150/80MMHg
+"Monday, 3 February, 2025",TCH-01085,Amna Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",62Year,,52Kg,98.3F,100/40MMHg
+"Tuesday, 4 February, 2025",TCH-01086,Malti Shrivastava,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",75Year,150CM,55Kg,98.4F,120/60MMHg
+"Wednesday, 5 February, 2025",TCH-00204,FIRDOSH BEGUM,"Dr. B.K.""Vikas"", MD (Medicine)","MD, PhD
+","General Physician
+",46Year,164CM,70 KG,97.6F,120/80MMHg
+"Thursday, 6 February, 2025",TCH-00279,Vijay Singh,"Dr. B.K.""Vikas"", MD (Medicine)","MD,PhD","General Physician
+",55Year,171CM,74Kg,97.4F,120/80MMHg
+"Friday, 7 February, 2025",TCH-00444,Urmila Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MD,PhD","General Physician
+",62Year,153cm,53Kg,97.6F,130/80MMHg
+"Saturday, 8 February, 2025",TCH-00749,Jailas Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, PG-DTM&H, Medicine","General Physician
+",65Year,149Cm,58Kg,97.1F,100/70MMHg
+"Sunday, 9 February, 2025",TCH-01087,Girja Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,36Year,144CM,46Kg,98F,130/90MMHg
+"Monday, 10 February, 2025",TCH-01088,Reena Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,42Year,157CM,61Kg,97.5F,120/70MMHg
+"Tuesday, 11 February, 2025",TCH-01089,Deenu Kumar Singh,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,27Year,,,,
+"Wednesday, 12 February, 2025",TCH-00575,Dhanmanti Devi,Dr.Vinit Kumar Sinha,"MBBS, Ex Resident SKMCH","General Physician
+",70Year,147CM,44Kg,98.6F,140/70MMHg
+"Thursday, 13 February, 2025",TCH-00627,Manisha Kumari,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",25Year,158CM,66Kg,96.4F,110/70MMHg
+"Friday, 14 February, 2025",TCH-00926,Siromani Devi,Dr.Vinit Kumar Sinha,"MBBS, MD",Cosultant Physician,80,,,,140/70MMHg
+"Saturday, 15 February, 2025",TCH-00984,Bibha Devi,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,35yrs,,,,
+"Sunday, 16 February, 2025",TCH-00986,Pramod Pandit,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",42Year,156Cm,55Kg,98.7F,100/80MMHg
+"Monday, 17 February, 2025",TCH-01090,Jaitun Khatoon,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",60Year,156CM,39Kg,98.4F,100/70MMHg
+"Tuesday, 18 February, 2025",TCH-01091,Dharmendra Kumar,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",25Year,159CM,46Kg,98.8F,100/70MMHg
+"Wednesday, 19 February, 2025",TCH-01092,Sandhaya Kumari,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, PG-DTM&H, Medicine","General Physician
+",44Year,157CM,64Kg,97.2F,100/70MMHg
+"Thursday, 20 February, 2025",TCH-01093,Rahul Kumar,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",25Year,174CM,78Kg,99F,150/90MMHg
+"Friday, 21 February, 2025",TCH-00185,Bilkis Bano,"Dr. B.K.""Vikas"", MD (Medicine)","MD, PhD
+","General Physician
+",19Year,150cm,44Kg,98.9F,120/70MMHg
+"Saturday, 22 February, 2025",TCH-00534,Mina Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, PG-DTM&H, Medicine","General Physician
+",45Year,150cm,45Kg,98.7F,110/70MMHg
+"Sunday, 23 February, 2025",TCH-00913,Shanti Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, PG-DTM&H, Medicine","General Physician
+",50Year,155cm,80Kg,98.7F,150/80MMHg
+"Monday, 24 February, 2025",TCH-00996,Ramesh Rai,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,43Yrs,165CM,66Kg,97.3F,
+"Tuesday, 25 February, 2025",TCH-01002,Manoj Kumar Srivastava,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, PG-DTM&H, Medicine","General Physician
+",53Year,169CM,74KG,97F,110/74MMHg
+"Wednesday, 26 February, 2025",TCH-01094,Ramanand Singh,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,55Year,164CM,57Kg,98.4F,120/70MMHg
+"Thursday, 27 February, 2025",TCH-01095,Yogendra Mahto,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,64Year,154CM,44Kg,98.7F,150/70MMHg
+"Friday, 28 February, 2025",TCH-01096,Banty Kumar,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,20Year,163CM,57Kg,97.6F,104/80MMHg
+"Saturday, 1 March, 2025",TCH-01097,Farque Alam,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,75Year,,,97.6F,160/80MMHg
+"Sunday, 2 March, 2025",TCH-01098,Pooja Kumari,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,22Year,154CM,59Kg,97F,140/96MMHg
+"Monday, 3 March, 2025",TCH-P-0123,RAJENDRA SHARMA,"Dr. B.K.""Vikas"", MD (Medicine)","MD, PhD",General  Physician,57Year,153CM,53Kg,98.7F,140/80MMHg
+"Tuesday, 4 March, 2025",TCH-01099,Jaiya Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, PG-DTM&H, Medicine","General Physician
+",55Y,151cm,49kg,98.5'f,110/70mmhg
+"Wednesday, 5 March, 2025",TCH-01100,Ram Parvesh Singh,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,37Year,167CM,56Kg,98.3F,110/80MMHg
+"Thursday, 6 March, 2025",TCH-01101,Parshuram Singh,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,65Year,177CM,69KG,98.4F,100/70MMHg
+"Friday, 7 March, 2025",TCH-01102,Rubby Kumari,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,15Year,130CM,35Kg,98.8F,90/60MMHg
+"Saturday, 8 March, 2025",TCH-01103,Khushboo Kumari,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,32Year,170CM,69KG,97F,110/80MMHg
+"Sunday, 9 March, 2025",TCH-01104,Kasturi Kumari,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,35Year,147CM,37Kg,98.7F,130/84MMHg
+"Monday, 10 March, 2025",TCH-01105,Gendi Kumari,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,27Year,155CM,35Kg,98.5F,110/71MMHg
+"Tuesday, 11 March, 2025",TCH-01106,Mahesh Kumar,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, MS ORTHO",ORTHO,18Year,,,98F,130/94MMHg
+"Wednesday, 12 March, 2025",TCH-P-0122,R.P SINGH,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS,PD-DTM & H, MEDICINE
+",Cosultant Physician,70Year,154CM,77Kg,98.5F,140/60MMHg
+"Thursday, 13 March, 2025",TCH-00366,Chandrama Sah,Dr.Vinit Kumar Sinha,"MD,PhD","General Physician
+",60,164 cm,59KG,98.2F,110/74MMHg
+"Friday, 14 March, 2025",TCH-00436,Ram Lochan Paswan,Dr.Vinit Kumar Sinha,"MD,PhD","General Physician
+",64Year,158Cm,57KG,97.8F,130/70MMHg
+"Saturday, 15 March, 2025",TCH-00610,Noor Jahan Khatoon,Dr.Vinit Kumar Sinha,"MBBS, Ex Resident SKMCH","General Physician
+",48Year,149CM,64Kg,97.9F,120/84MMHg
+"Sunday, 16 March, 2025",TCH-00883,Rakesh Rai,Dr.Vinit Kumar Sinha,"MBBS, MD",Cosultant Physician,43Year,167cm,70Kg,99F,136/80MMHg
+"Monday, 17 March, 2025",TCH-01035,Dilip Kumar Singh,Dr.Vinit Kumar Sinha,"MBBS, MD",Cosultant Physician,60Year,170CM,66.2Kg,98F,150/90MMHg
+"Tuesday, 18 March, 2025",TCH-01107,Asha Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",55Year,145CM,44Kg,98.7F,130/90MMHg
+"Wednesday, 19 March, 2025",TCH-01108,Surrendra Prasad Singh,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",83Year,159CM,53Kg,98.9F,140/100MMHg
+"Thursday, 20 March, 2025",TCH-01109,Chandan Kumar,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",22Year,164CM,72Kg,98F,140/98MMHg
+"Friday, 21 March, 2025",TCH-01110,Savita Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",35Year,147CM,45Kg,98.6F,130/90MMHg
+"Saturday, 22 March, 2025",TCH-01111,Nishu Kumari,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",17Year,151CM,46Kg,99.9F,106/60MMHg
+"Sunday, 23 March, 2025",TCH-01112,Usha Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",42Year,149CM,77Kg,98.2F,120/80MMHg
+"Monday, 24 March, 2025",TCH-00489,Sunil Kumar,Dr.Vinit Kumar Sinha,"MD,PhD","General Physician
+",18Year,176CM,48KG,98.3F,110/84MMHg
+"Tuesday, 25 March, 2025",TCH-00725,Santosh Kumar,Dr.Vinit Kumar Sinha,"MBBS, MD",Cosultant Physician,38Year,166.5cm,61KG,97.9F,130/90MMHg
+"Wednesday, 26 March, 2025",TCH-00848,MD. MANJOOR,Dr.Vinit Kumar Sinha,"MBBS, MD",Cosultant Physician,69Year,163CM,63KG,98F,160/80MMHg
+"Thursday, 27 March, 2025",TCH-00955,Mina Devi,Dr.Vinit Kumar Sinha,"MBBS, MD",Cosultant Physician,55Year,159cm,57KG,97F,110/50MMHg
+"Friday, 28 March, 2025",TCH-01113,Heena Khatoon,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",27Year,160CM,71Kg,97.6F,120/90MMHg
+"Saturday, 29 March, 2025",TCH-01114,Urmila Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",60Year,158CM,58KG,97.8F,134/74MMHg
+"Sunday, 30 March, 2025",TCH-01115,Renu Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",36Year,149CM,83KG,97.6F,140/90MMHg
+"Monday, 31 March, 2025",TCH-00326,Chanma Devi,Dr.Vinit Kumar Sinha,"MD,PhD","General Physician
+",48Year,144cm,47KG,97.6'F,
+"Tuesday, 1 April, 2025",TCH-00545,Anjali Kumari,Dr.Vinit Kumar Sinha,"MBBS, Ex Resident SKMCH","General Physician
+",20Year,152CM,41KG,98F,100/64MMHg
+"Wednesday, 2 April, 2025",TCH-00856,KUNKUN DEVI,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",50Year,154CM,43KG,98.3F,120/60MMHg
+"Thursday, 3 April, 2025",TCH-00990,Archana Kumari,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",34,,,,
+"Friday, 4 April, 2025",TCH-01004,Manjit Kumar,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",22Year,164CM,59Kg,98.4f,110/64MMHg
+"Saturday, 5 April, 2025",TCH-01038,Rinku Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",24Year,155CM,39Kg,97.5'f,100/50MMHg
+"Sunday, 6 April, 2025",TCH-01042,Radhika Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",75Year,,,,
+"Monday, 7 April, 2025",TCH-P-0127,ABADH KISHORE,Dr.Vinit Kumar Sinha,"MBBS, FCGP
+","GENERAL, PHYSICIAN",42Year,169CM,67Kg,98.4F,110/80MMHg
+"Tuesday, 8 April, 2025",TCH-00229,ASHA DEVI,Dr.Vinit Kumar Sinha,"MD,PhD","General Physician
+",48Y,169Cm,81Kg,97.1'F,130/80MMhg
+"Wednesday, 9 April, 2025",TCH-00525,Dharmsheela Devi,Dr.Vinit Kumar Sinha,"MBBS, Ex Resident SKMCH","General Physician
+",60,151cm,59.3Kg,,
+"Thursday, 10 April, 2025",TCH-00928,SURESH KUMAR SHARMA,"Dr Rakesh Kumar Pal,MBBS,MS Ortho,Sr SKMCH","MBBS, PG-DTM&H, Medicine","General Physician
+",55,162CM,69KG,0,
+"Friday, 11 April, 2025",TCH-00937,Soniya Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",70Year,149CM,45kG,98F,140/70MMHg
+"Saturday, 12 April, 2025",TCH-00316,Vinod Rai,"Dr. B.K.""Vikas"", MD (Medicine)","MD,PhD","General Physician
+",35Year,169CM,68Kg,99.0F,130/90MMHg
+"Sunday, 13 April, 2025",TCH-00968,Sunil Singh,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, PG-DTM&H, Medicine","General Physician
+",45Year,166CM,80Kg,92.2F,120/80MMHg
+"Monday, 14 April, 2025",TCH-00993,Mohhamed Rafi Ahmed,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, Ex Resident SKMCH",Cosultant Physician,62Year,159Cm,82Kg,96.7F,120/60MMHg
+"Tuesday, 15 April, 2025",TCH-01040,Dhanpatiya Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, PG-DTM&H, Medicine","General Physician
+",60Year,149CM,42Kg,,
+"Wednesday, 16 April, 2025",TCH-P-0126,VIJAY KUMAR,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",,37Year,173CM,64Kg,98.4F,116/70MMHg
+"Thursday, 17 April, 2025",TCH-00720,Sonelal Singh,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MS ORTHO",Cosultant Physician,70Year,173CM,63Kg,97.5F,125/75MMHg
+"Friday, 18 April, 2025",TCH-00965,Manju Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, MD",Cosultant Physician,50Year,141CM,70KG,96.9F,100/60MMHg
+"Saturday, 19 April, 2025",TCH-01028,Sarita Devi,"Dr. B.K.""Vikas"", MD (Medicine)","MBBS, PG-DTM&H, Medicine","General Physician
+",30Year,153CM,53Kg,96.7F,1290MMHg
+"Sunday, 20 April, 2025",TCH-00572,SABBIR,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",56,172CM,57Kg,97.1'F,120/80MMhg
+"Monday, 21 April, 2025",TCH-00842,Mehmoon Nisha,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",55 Y,144CM,98.2KG,98.02'F,100/70MMhg
+"Tuesday, 22 April, 2025",TCH-00853,MD. ALI,Dr.Vinit Kumar Sinha,"MBBS, Ex Resident SKMCH","General Physician
+",42Y,,,,
+"Wednesday, 23 April, 2025",TCH-01012,Ashok Kumar,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",35year,169CM,48Kg,97.9F,
+"Thursday, 24 April, 2025",TCH-00956,Sunita Devi,Dr.Vinit Kumar Sinha,"MBBS, MD",Cosultant Physician,48Year,158CM,61Kg,96.7F,120/80MMHg
+"Friday, 25 April, 2025",TCH-01069,Mina Devi,Dr.Vinit Kumar Sinha,"MBBS, PG-DTM&H, Medicine","General Physician
+",60Year,146CM,57KG,97.9F,130/90MMHg
